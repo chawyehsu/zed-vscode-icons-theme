@@ -2,6 +2,8 @@
 
 The VSCode Icons theme for [Zed](https://zed.dev) editor. This theme port brings the popular [vscode-icons](https://github.com/vscode-icons/vscode-icons) to Zed.
 
+![Preview](https://github.com/user-attachments/assets/14ee5628-398c-4afb-94a4-3b10728f2feb)
+
 ## Features
 
 - Comprehensive icon set for files and directories
