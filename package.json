@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "name": "zed-vscode-icons-theme",
+  "version": "0.0.0",
+  "description": "vscode-icons theme for Zed",
+  "scripts": {
+    "build": "bun build.ts"
+  },
+  "author": "Chawye Hsu",
+  "packageManager": "pnpm@10.11.1",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
