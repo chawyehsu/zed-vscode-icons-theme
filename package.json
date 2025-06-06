@@ -9,7 +9,10 @@
   "author": "Chawye Hsu",
   "packageManager": "pnpm@10.11.1",
   "devDependencies": {
-    "@types/bun": "latest"
+    "@types/bun": "latest",
+    "@types/node": "^20.0.0",
+    "axios": "^1.6.2",
+    "extract-zip": "^2.0.1"
   },
   "peerDependencies": {
     "typescript": "^5"
