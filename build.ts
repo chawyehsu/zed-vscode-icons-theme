@@ -36,22 +36,25 @@ interface VSCodeIconsManifest {
   };
 }
 
+/// Interface for Zed icon theme variant
+interface ZedIconThemeVariant {
+  name: string;
+  appearance: "dark" | "light";
+  directory_icons?: {
+    collapsed: string | null;
+    expanded: string | null;
+  };
+  file_stems: Record<string, string>;
+  file_suffixes: Record<string, string>;
+  file_icons: Record<string, { path: string }>;
+}
+
 // Types for Zed icon theme
 interface ZedIconTheme {
   $schema: string;
   name: string;
   author: string;
-  themes: Array<{
-    name: string;
-    appearance: string;
-    directory_icons: {
-      collapsed: string;
-      expanded: string;
-    };
-    file_stems: Record<string, string>;
-    file_suffixes: Record<string, string>;
-    file_icons: Record<string, { path: string }>;
-  }>;
+  themes: Array<ZedIconThemeVariant>;
 }
 
 /**
@@ -169,19 +172,19 @@ function convertManifest(vsManifest: VSCodeIconsManifest): ZedIconTheme {
     $schema: "https://zed.dev/schema/icon_themes/v0.2.0.json",
     name: "VSCode Icons Theme",
     author: "Chawye Hsu",
-    themes: [
-      {
-        name: "VSCode Icons",
-        appearance: "dark",
-        directory_icons: {
-          collapsed: "",
-          expanded: "",
-        },
-        file_stems: {},
-        file_suffixes: {},
-        file_icons: {},
-      },
-    ],
+    themes: [],
+  };
+
+  const darkTheme: ZedIconThemeVariant = {
+    name: "VSCode Icons",
+    appearance: "dark",
+    directory_icons: {
+      collapsed: null,
+      expanded: null,
+    },
+    file_stems: {},
+    file_suffixes: {},
+    file_icons: {},
   };
 
   // Process default directory icons
@@ -191,26 +194,26 @@ function convertManifest(vsManifest: VSCodeIconsManifest): ZedIconTheme {
   if (folderIcon && vsManifest.iconDefinitions[folderIcon]) {
     const iconPath = vsManifest.iconDefinitions[folderIcon].iconPath;
     const fileName = iconPath.substring(iconPath.lastIndexOf("/") + 1);
-    zedManifest.themes[0].directory_icons.collapsed = `./icons/${fileName}`;
+    darkTheme.directory_icons!.collapsed = fileName.length > 0 ? `./icons/${fileName}` : null;
   }
 
   if (folderExpandedIcon && vsManifest.iconDefinitions[folderExpandedIcon]) {
     const iconPath = vsManifest.iconDefinitions[folderExpandedIcon].iconPath;
     const fileName = iconPath.substring(iconPath.lastIndexOf("/") + 1);
-    zedManifest.themes[0].directory_icons.expanded = `./icons/${fileName}`;
+    darkTheme.directory_icons!.expanded = fileName.length > 0 ? `./icons/${fileName}` : null;
   }
 
   // Process file stems (file names)
   if (vsManifest.fileNames) {
     Object.entries(vsManifest.fileNames).forEach(([fileName, iconId]) => {
-      zedManifest.themes[0].file_stems[fileName] = iconId;
+      darkTheme.file_stems[fileName] = iconId;
     });
   }
 
   // Process file suffixes (file extensions)
   if (vsManifest.fileExtensions) {
     Object.entries(vsManifest.fileExtensions).forEach(([ext, iconId]) => {
-      zedManifest.themes[0].file_suffixes[ext] = iconId;
+      darkTheme.file_suffixes[ext] = iconId;
     });
   }
 
@@ -218,56 +221,79 @@ function convertManifest(vsManifest: VSCodeIconsManifest): ZedIconTheme {
   Object.entries(vsManifest.iconDefinitions).forEach(([iconId, definition]) => {
     if (definition.iconPath) {
       const iconFileName = definition.iconPath.substring(definition.iconPath.lastIndexOf("/") + 1);
-      zedManifest.themes[0].file_icons[iconId] = {
+      darkTheme.file_icons[iconId] = {
         path: `./icons/${iconFileName}`,
       };
     }
   });
 
   // Process language IDs
-  processLanguageIds(vsManifest.languageIds, vsManifest.iconDefinitions, zedManifest.themes[0].file_icons);
+  processLanguageIds(vsManifest.languageIds, vsManifest.iconDefinitions, darkTheme.file_icons);
+
+  // Add the dark theme to the themes array
+  zedManifest.themes.push(darkTheme);
 
   // Add light theme if it exists in the source
   if (vsManifest.light) {
-    // Create a deep copy of the dark theme as a starting point
-    const lightTheme = JSON.parse(JSON.stringify(zedManifest.themes[0]));
-    lightTheme.appearance = "light";
-    lightTheme.name = "VSCode Icons Light";
+    // Create a new light theme object with proper typing
+    const lightTheme: ZedIconThemeVariant = {
+      name: "VSCode Icons Light",
+      appearance: "light",
+      directory_icons: {
+        collapsed: null,
+        expanded: null,
+      },
+      file_stems: {},
+      file_suffixes: {},
+      file_icons: {},
+    }
+
+    const light = vsManifest.light;
 
     // Process light directory icons
-    if (vsManifest.light.folder && vsManifest.iconDefinitions[vsManifest.light.folder]) {
-      const iconPath = vsManifest.iconDefinitions[vsManifest.light.folder].iconPath;
+    if (light.folder && vsManifest.iconDefinitions[light.folder]) {
+      const iconPath = vsManifest.iconDefinitions[light.folder]!.iconPath;
       const fileName = iconPath.substring(iconPath.lastIndexOf("/") + 1);
-      lightTheme.directory_icons.collapsed = `./icons/${fileName}`;
+      lightTheme.directory_icons!.collapsed = fileName.length > 0 ? `./icons/${fileName}` : darkTheme.directory_icons!.collapsed;
     }
 
     if (
-      vsManifest.light.folderExpanded &&
-      vsManifest.iconDefinitions[vsManifest.light.folderExpanded]
+      light.folderExpanded &&
+      vsManifest.iconDefinitions[light.folderExpanded]
     ) {
-      const iconPath = vsManifest.iconDefinitions[vsManifest.light.folderExpanded].iconPath;
+      const iconPath = vsManifest.iconDefinitions[light.folderExpanded]!.iconPath;
       const fileName = iconPath.substring(iconPath.lastIndexOf("/") + 1);
-      lightTheme.directory_icons.expanded = `./icons/${fileName}`;
+      lightTheme.directory_icons!.expanded = fileName.length > 0 ? `./icons/${fileName}` : darkTheme.directory_icons!.expanded;
     }
 
-    // Process light file stems (file names)
-    if (vsManifest.light.fileNames) {
-      // Override with light theme specific file stems
-      Object.entries(vsManifest.light.fileNames).forEach(([fileName, iconId]) => {
+    // Process file stems (file names)
+    if (light.fileNames) {
+      Object.entries(light.fileNames).forEach(([fileName, iconId]) => {
         lightTheme.file_stems[fileName] = iconId;
       });
     }
 
-    // Process light file suffixes (file extensions)
-    if (vsManifest.light.fileExtensions) {
-      // Override with light theme specific file extensions
-      Object.entries(vsManifest.light.fileExtensions).forEach(([ext, iconId]) => {
+    // Process file suffixes (file extensions)
+    if (light.fileExtensions) {
+      Object.entries(light.fileExtensions).forEach(([ext, iconId]) => {
         lightTheme.file_suffixes[ext] = iconId;
       });
     }
 
-    // Process light language IDs
-    processLanguageIds(vsManifest.light.languageIds, vsManifest.iconDefinitions, lightTheme.file_icons);
+    // Process icon definitions
+    Object.entries(vsManifest.iconDefinitions).forEach(([iconId, definition]) => {
+      if (definition.iconPath) {
+        const iconFileName = definition.iconPath.substring(definition.iconPath.lastIndexOf("/") + 1);
+        lightTheme.file_icons[iconId] = {
+          path: `./icons/${iconFileName}`,
+        };
+      }
+    });
+
+    // Process language IDs
+    if (light.languageIds) {
+      processLanguageIds(light.languageIds, vsManifest.iconDefinitions, lightTheme.file_icons);
+    }
 
     // Add light theme to the themes array
     zedManifest.themes.push(lightTheme);

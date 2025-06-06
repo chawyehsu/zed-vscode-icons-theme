@@ -7063,8 +7063,8 @@
       "name": "VSCode Icons Light",
       "appearance": "light",
       "directory_icons": {
-        "collapsed": null,
-        "expanded": null
+        "collapsed": "./icons/default_folder.svg",
+        "expanded": "./icons/default_folder_opened.svg"
       },
       "file_stems": {
         ".all-contributorsrc": "_f_allcontributors",
@@ -12671,7 +12671,7 @@
           "path": "./icons/file_type_actionscript.svg"
         },
         "ada": {
-          "path": "./icons/file_type_ada.svg"
+          "path": "./icons/file_type_light_ada.svg"
         },
         "advpl": {
           "path": "./icons/file_type_advpl.svg"
@@ -12680,16 +12680,16 @@
           "path": "./icons/file_type_affectscript.svg"
         },
         "agda": {
-          "path": "./icons/file_type_agda.svg"
+          "path": "./icons/file_type_light_agda.svg"
         },
         "lagda-md": {
-          "path": "./icons/file_type_agda.svg"
+          "path": "./icons/file_type_light_agda.svg"
         },
         "lagda-rst": {
-          "path": "./icons/file_type_agda.svg"
+          "path": "./icons/file_type_light_agda.svg"
         },
         "lagda-tex": {
-          "path": "./icons/file_type_agda.svg"
+          "path": "./icons/file_type_light_agda.svg"
         },
         "al": {
           "path": "./icons/file_type_al.svg"
@@ -12713,7 +12713,7 @@
           "path": "./icons/file_type_apib.svg"
         },
         "apl": {
-          "path": "./icons/file_type_apl.svg"
+          "path": "./icons/file_type_light_apl.svg"
         },
         "applescript": {
           "path": "./icons/file_type_applescript.svg"
@@ -12743,7 +12743,7 @@
           "path": "./icons/file_type_assembly.svg"
         },
         "astro": {
-          "path": "./icons/file_type_astro.svg"
+          "path": "./icons/file_type_light_astro.svg"
         },
         "ats": {
           "path": "./icons/file_type_ats.svg"
@@ -12881,7 +12881,7 @@
           "path": "./icons/file_type_clojurescript.svg"
         },
         "manifest-yaml": {
-          "path": "./icons/file_type_cloudfoundry.svg"
+          "path": "./icons/file_type_light_cloudfoundry.svg"
         },
         "cmake": {
           "path": "./icons/file_type_cmake.svg"
@@ -12899,28 +12899,28 @@
           "path": "./icons/file_type_coffeescript.svg"
         },
         "java-properties": {
-          "path": "./icons/file_type_config.svg"
+          "path": "./icons/file_type_light_config.svg"
         },
         "properties": {
-          "path": "./icons/file_type_config.svg"
+          "path": "./icons/file_type_light_config.svg"
         },
         "spring-boot-properties": {
-          "path": "./icons/file_type_config.svg"
+          "path": "./icons/file_type_light_config.svg"
         },
         "confluence": {
           "path": "./icons/file_type_confluence.svg"
         },
         "instructions": {
-          "path": "./icons/file_type_copilot.svg"
+          "path": "./icons/file_type_light_copilot.svg"
         },
         "prompt": {
-          "path": "./icons/file_type_copilot.svg"
+          "path": "./icons/file_type_light_copilot.svg"
         },
         "cpp": {
           "path": "./icons/file_type_cpp.svg"
         },
         "crystal": {
-          "path": "./icons/file_type_crystal.svg"
+          "path": "./icons/file_type_light_crystal.svg"
         },
         "csharp": {
           "path": "./icons/file_type_csharp.svg"
@@ -12968,7 +12968,7 @@
           "path": "./icons/file_type_delphi.svg"
         },
         "dhall": {
-          "path": "./icons/file_type_dhall.svg"
+          "path": "./icons/file_type_light_dhall.svg"
         },
         "diff": {
           "path": "./icons/file_type_diff.svg"
@@ -13064,7 +13064,7 @@
           "path": "./icons/file_type_erlang.svg"
         },
         "esphome": {
-          "path": "./icons/file_type_esphome.svg"
+          "path": "./icons/file_type_light_esphome.svg"
         },
         "excel": {
           "path": "./icons/file_type_excel.svg"
@@ -13106,7 +13106,7 @@
           "path": "./icons/file_type_gamemaker.svg"
         },
         "gml-gms2": {
-          "path": "./icons/file_type_gamemaker2.svg"
+          "path": "./icons/file_type_light_gamemaker2.svg"
         },
         "gml-gm81": {
           "path": "./icons/file_type_gamemaker81.svg"
@@ -13166,7 +13166,7 @@
           "path": "./icons/file_type_goctl.svg"
         },
         "gradle-kotlin-dsl": {
-          "path": "./icons/file_type_gradle.svg"
+          "path": "./icons/file_type_light_gradle.svg"
         },
         "grain": {
           "path": "./icons/file_type_grain.svg"
@@ -13190,7 +13190,7 @@
           "path": "./icons/file_type_harbour.svg"
         },
         "hcl": {
-          "path": "./icons/file_type_hashicorp.svg"
+          "path": "./icons/file_type_light_hashicorp.svg"
         },
         "haskell": {
           "path": "./icons/file_type_haskell.svg"
@@ -13211,7 +13211,7 @@
           "path": "./icons/file_type_helm.svg"
         },
         "hjson": {
-          "path": "./icons/file_type_hjson.svg"
+          "path": "./icons/file_type_light_hjson.svg"
         },
         "hlsl": {
           "path": "./icons/file_type_hlsl.svg"
@@ -13250,7 +13250,7 @@
           "path": "./icons/file_type_informix.svg"
         },
         "ini": {
-          "path": "./icons/file_type_ini.svg"
+          "path": "./icons/file_type_light_ini.svg"
         },
         "ink": {
           "path": "./icons/file_type_ink.svg"
@@ -13259,7 +13259,7 @@
           "path": "./icons/file_type_innosetup.svg"
         },
         "io": {
-          "path": "./icons/file_type_io.svg"
+          "path": "./icons/file_type_light_io.svg"
         },
         "iodine": {
           "path": "./icons/file_type_iodine.svg"
@@ -13355,22 +13355,22 @@
           "path": "./icons/file_type_jinja.svg"
         },
         "javascript": {
-          "path": "./icons/file_type_js.svg"
+          "path": "./icons/file_type_light_js.svg"
         },
         "json": {
-          "path": "./icons/file_type_json.svg"
+          "path": "./icons/file_type_light_json.svg"
         },
         "json-tmlanguage": {
-          "path": "./icons/file_type_json.svg"
+          "path": "./icons/file_type_light_json.svg"
         },
         "jsonc": {
-          "path": "./icons/file_type_json.svg"
+          "path": "./icons/file_type_light_json.svg"
         },
         "jsonl": {
-          "path": "./icons/file_type_json.svg"
+          "path": "./icons/file_type_light_json.svg"
         },
         "json5": {
-          "path": "./icons/file_type_json5.svg"
+          "path": "./icons/file_type_light_json5.svg"
         },
         "jsonnet": {
           "path": "./icons/file_type_jsonnet.svg"
@@ -13403,16 +13403,16 @@
           "path": "./icons/file_type_kusto.svg"
         },
         "lark": {
-          "path": "./icons/file_type_lark.svg"
+          "path": "./icons/file_type_light_lark.svg"
         },
         "latino": {
           "path": "./icons/file_type_latino.svg"
         },
         "lean4": {
-          "path": "./icons/file_type_lean.svg"
+          "path": "./icons/file_type_light_lean.svg"
         },
         "lean4markdown": {
-          "path": "./icons/file_type_lean.svg"
+          "path": "./icons/file_type_light_lean.svg"
         },
         "less": {
           "path": "./icons/file_type_less.svg"
@@ -13460,7 +13460,7 @@
           "path": "./icons/file_type_maya.svg"
         },
         "mdx": {
-          "path": "./icons/file_type_mdx.svg"
+          "path": "./icons/file_type_light_mdx.svg"
         },
         "mediawiki": {
           "path": "./icons/file_type_mediawiki.svg"
@@ -13514,7 +13514,7 @@
           "path": "./icons/file_type_mjml.svg"
         },
         "powerquery": {
-          "path": "./icons/file_type_mlang.svg"
+          "path": "./icons/file_type_light_mlang.svg"
         },
         "mojo": {
           "path": "./icons/file_type_mojo.svg"
@@ -13541,7 +13541,7 @@
           "path": "./icons/file_type_nearly.svg"
         },
         "cypher": {
-          "path": "./icons/file_type_neo4j.svg"
+          "path": "./icons/file_type_light_neo4j.svg"
         },
         "nginx": {
           "path": "./icons/file_type_nginx.svg"
@@ -13589,7 +13589,7 @@
           "path": "./icons/file_type_ogone.svg"
         },
         "openhab": {
-          "path": "./icons/file_type_openHAB.svg"
+          "path": "./icons/file_type_light_openHAB.svg"
         },
         "scad": {
           "path": "./icons/file_type_openscad.svg"
@@ -13661,7 +13661,7 @@
           "path": "./icons/file_type_powershell.svg"
         },
         "prisma": {
-          "path": "./icons/file_type_prisma.svg"
+          "path": "./icons/file_type_light_prisma.svg"
         },
         "pde": {
           "path": "./icons/file_type_processinglang.svg"
@@ -13691,7 +13691,7 @@
           "path": "./icons/file_type_puppet.svg"
         },
         "purescript": {
-          "path": "./icons/file_type_purescript.svg"
+          "path": "./icons/file_type_light_purescript.svg"
         },
         "pyret": {
           "path": "./icons/file_type_pyret.svg"
@@ -13724,7 +13724,7 @@
           "path": "./icons/file_type_racket.svg"
         },
         "raku": {
-          "path": "./icons/file_type_raku.svg"
+          "path": "./icons/file_type_light_raku.svg"
         },
         "raml": {
           "path": "./icons/file_type_raml.svg"
@@ -13772,7 +13772,7 @@
           "path": "./icons/file_type_ruby.svg"
         },
         "rust": {
-          "path": "./icons/file_type_rust.svg"
+          "path": "./icons/file_type_light_rust.svg"
         },
         "s-lang": {
           "path": "./icons/file_type_s-lang.svg"
@@ -13811,7 +13811,7 @@
           "path": "./icons/file_type_search_result.svg"
         },
         "shaderlab": {
-          "path": "./icons/file_type_shaderlab.svg"
+          "path": "./icons/file_type_light_shaderlab.svg"
         },
         "shellscript": {
           "path": "./icons/file_type_shell.svg"
@@ -13850,7 +13850,7 @@
           "path": "./icons/file_type_snort.svg"
         },
         "solidity": {
-          "path": "./icons/file_type_solidity.svg"
+          "path": "./icons/file_type_light_solidity.svg"
         },
         "sparql": {
           "path": "./icons/file_type_sparql.svg"
@@ -13883,7 +13883,7 @@
           "path": "./icons/file_type_styled.svg"
         },
         "stylus": {
-          "path": "./icons/file_type_stylus.svg"
+          "path": "./icons/file_type_light_stylus.svg"
         },
         "svelte": {
           "path": "./icons/file_type_svelte.svg"
@@ -13904,13 +13904,13 @@
           "path": "./icons/file_type_swig.svg"
         },
         "systemd-conf": {
-          "path": "./icons/file_type_systemd.svg"
+          "path": "./icons/file_type_light_systemd.svg"
         },
         "systemd-unit-file": {
-          "path": "./icons/file_type_systemd.svg"
+          "path": "./icons/file_type_light_systemd.svg"
         },
         "systemverilog": {
-          "path": "./icons/file_type_systemverilog.svg"
+          "path": "./icons/file_type_light_systemverilog.svg"
         },
         "t4": {
           "path": "./icons/file_type_t4tt.svg"
@@ -13931,16 +13931,16 @@
           "path": "./icons/file_type_terraform.svg"
         },
         "tex": {
-          "path": "./icons/file_type_tex.svg"
+          "path": "./icons/file_type_light_tex.svg"
         },
         "latex": {
-          "path": "./icons/file_type_tex.svg"
+          "path": "./icons/file_type_light_tex.svg"
         },
         "bibtex": {
-          "path": "./icons/file_type_tex.svg"
+          "path": "./icons/file_type_light_tex.svg"
         },
         "doctex": {
-          "path": "./icons/file_type_tex.svg"
+          "path": "./icons/file_type_light_tex.svg"
         },
         "csv": {
           "path": "./icons/file_type_text.svg"
@@ -13973,10 +13973,10 @@
           "path": "./icons/file_type_tiltfile.svg"
         },
         "toit": {
-          "path": "./icons/file_type_toit.svg"
+          "path": "./icons/file_type_light_toit.svg"
         },
         "toml": {
-          "path": "./icons/file_type_toml.svg"
+          "path": "./icons/file_type_light_toml.svg"
         },
         "tt": {
           "path": "./icons/file_type_tt.svg"
@@ -14078,7 +14078,7 @@
           "path": "./icons/file_type_xml.svg"
         },
         "xcompose": {
-          "path": "./icons/file_type_xorg.svg"
+          "path": "./icons/file_type_light_xorg.svg"
         },
         "xquery": {
           "path": "./icons/file_type_xquery.svg"
@@ -14093,13 +14093,13 @@
           "path": "./icons/file_type_yacc.svg"
         },
         "yaml": {
-          "path": "./icons/file_type_yaml.svg"
+          "path": "./icons/file_type_light_yaml.svg"
         },
         "yaml-tmlanguage": {
-          "path": "./icons/file_type_yaml.svg"
+          "path": "./icons/file_type_light_yaml.svg"
         },
         "spring-boot-properties-yaml": {
-          "path": "./icons/file_type_yaml.svg"
+          "path": "./icons/file_type_light_yaml.svg"
         },
         "yang": {
           "path": "./icons/file_type_yang.svg"
