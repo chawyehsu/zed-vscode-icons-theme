@@ -1,6 +1,6 @@
 id = "zed-vscode-icons-theme"
 name = "VSCode Icons"
-version = "0.1.0"
+version = "0.2.0"
 schema_version = 1
 authors = ["Chawye Hsu <su+zed@chawyehsu.com>"]
 description = "vscode-icons theme for Zed"
