@@ -1,6 +1,10 @@
 # zed-vscode-icons-theme
 
-The VSCode Icons theme for [Zed](https://zed.dev) editor. This theme port brings the popular [vscode-icons](https://github.com/vscode-icons/vscode-icons) to Zed.
+> The VSCode Icons theme for [Zed](https://zed.dev) editor. This theme port brings the popular [vscode-icons](https://github.com/vscode-icons/vscode-icons) to Zed.
+
+[![Zed-badge]][Zed Extension store] [![license][license-badge]](LICENSE)
+
+## Preview
 
 ![Preview](https://github.com/user-attachments/assets/5a9fac04-b954-42a0-9172-2506254d78f9)
 
@@ -69,5 +73,6 @@ For the license of `vscode-icons`, please refer to its repo.
 
 > [Blog](https://chawyehsu.com) · GitHub [@chawyehsu](https://github.com/chawyehsu) · Twitter [@chawyehsu](https://twitter.com/chawyehsu)
 
-
-[Zed Extension store]: https://zed.dev/extensions?query=chawyehsu-vscode-icons&filter=icon-themes
+[Zed-badge]: https://img.shields.io/badge/Zed-extensions-0751cf?logo=zedindustries&logoColor=0751cf&colorA=ffffff
+[Zed Extension store]: https://zed.dev/extensions/chawyehsu-vscode-icons
+[license-badge]: https://img.shields.io/github/license/chawyehsu/zed-vscode-icons-theme?style=flat&logo=spdx&logoColor=0751cf&colorA=ffffff&colorB=0751cf
