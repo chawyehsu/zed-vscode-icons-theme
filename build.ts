@@ -368,6 +368,11 @@ async function main() {
     await writeFile(outputManifestPath, JSON.stringify(zedManifest, null, 2), "utf8");
     console.log(`Saved manifest to ${outputManifestPath}`);
 
+    // Write/update the version file
+    const versionFilePath = join(projectRoot, "version");
+    await writeFile(versionFilePath, version, "utf8");
+    console.log(`Updated version file with ${version}`);
+
     // Clean up temporary directory
     await rm(tempDir, { recursive: true, force: true });
     console.log(`Cleaned up temporary directory: ${tempDir}`);

@@ -138,16 +138,19 @@
         "crowdin.yml": "_f_crowdin",
         "cspell.config.json": "_f_cspell",
         "cspell.config.js": "_f_cspell",
+        "cspell.config.mjs": "_f_cspell",
         "cspell.config.cjs": "_f_cspell",
         "cspell.config.yaml": "_f_cspell",
         "cspell.config.yml": "_f_cspell",
         "cspell.json": "_f_cspell",
         "cspell.js": "_f_cspell",
+        "cspell.mjs": "_f_cspell",
         "cspell.cjs": "_f_cspell",
         "cspell.yaml": "_f_cspell",
         "cspell.yml": "_f_cspell",
         ".cspell.json": "_f_cspell",
         ".cspell.js": "_f_cspell",
+        ".cspell.mjs": "_f_cspell",
         ".cspell.cjs": "_f_cspell",
         ".cspell.yaml": "_f_cspell",
         ".cspell.yml": "_f_cspell",
@@ -591,6 +594,15 @@
         "motif.json": "_f_motif",
         "mypy.ini": "_f_mypy",
         ".mypy.ini": "_f_mypy",
+        ".nano-staged.js": "_f_nanostaged",
+        "nano-staged.js": "_f_nanostaged",
+        ".nano-staged.cjs": "_f_nanostaged",
+        "nano-staged.cjs": "_f_nanostaged",
+        ".nano-staged.mjs": "_f_nanostaged",
+        "nano-staged.mjs": "_f_nanostaged",
+        ".nano-staged.json": "_f_nanostaged",
+        "nano-staged.json": "_f_nanostaged",
+        ".nanostagedrc": "_f_nanostaged",
         ".nest-cli.json": "_f_nestjs",
         "nest-cli.json": "_f_nestjs",
         "nestconfig.json": "_f_nestjs",
@@ -869,9 +881,11 @@
         "serverless.json": "_f_serverless",
         "serverless.js": "_f_serverless",
         "serverless.ts": "_f_serverless",
+        "components.json": "_f_shadcn",
         ".shellcheckrc": "_f_shellcheck",
         "Shuttle.toml": "_f_shuttle",
         "slash-up.config.js": "_f_slashup",
+        "smithery.yaml": "_f_smithery",
         "snapcraft.yaml": "_f_snapcraft",
         "snaplet.config.js": "_f_snaplet",
         "snaplet.config.ts": "_f_snaplet",
@@ -936,6 +950,7 @@
         ".stylish-haskell.yaml": "_f_stylish_haskell",
         ".svnignore": "_f_subversion",
         "svelte.config.js": "_f_svelteconfig",
+        "svelte.config.ts": "_f_svelteconfig",
         "svgo.config.cjs": "_f_svgo",
         "svgo.config.js": "_f_svgo",
         "svgo.config.mjs": "_f_svgo",
@@ -1038,6 +1053,7 @@
         "tslint.yaml": "_f_tslint",
         "tslint.yml": "_f_tslint",
         "turbo.json": "_f_turbo",
+        "turbo.jsonc": "_f_turbo",
         "typedoc.cjs": "_f_typedoc",
         "typedoc.js": "_f_typedoc",
         "typedoc.json": "_f_typedoc",
@@ -1068,6 +1084,7 @@
         "unocss.config.mjs": "_f_unocss",
         "unocss.config.ts": "_f_unocss",
         "unocss.config.mts": "_f_unocss",
+        "uv.lock": "_f_uv",
         "vagrantfile": "_f_vagrant",
         "vapor.yml": "_f_vapor",
         "now.json": "_f_vercel",
@@ -1673,6 +1690,8 @@
         "oft": "_f_outlook",
         "ovpn": "_f_ovpn",
         "pkg": "_f_package",
+        "paket.references": "_f_paket",
+        "paket.template": "_f_paket",
         "patch": "_f_patch",
         "pcd": "_f_pcl",
         "pdf": "_f_pdf",
@@ -2941,6 +2960,9 @@
         "_f_allcontributors": {
           "path": "./icons/file_type_allcontributors.svg"
         },
+        "_f_alloy": {
+          "path": "./icons/file_type_alloy.svg"
+        },
         "_f_angular": {
           "path": "./icons/file_type_angular.svg"
         },
@@ -3742,6 +3764,9 @@
         "_f_glide": {
           "path": "./icons/file_type_glide.svg"
         },
+        "_f_glimmer": {
+          "path": "./icons/file_type_glimmer.svg"
+        },
         "_f_glitter": {
           "path": "./icons/file_type_glitter.svg"
         },
@@ -4365,6 +4390,9 @@
         },
         "_f_light_mypy": {
           "path": "./icons/file_type_light_mypy.svg"
+        },
+        "_f_nanostaged": {
+          "path": "./icons/file_type_nanostaged.svg"
         },
         "_f_ndst": {
           "path": "./icons/file_type_ndst.svg"
@@ -4993,6 +5021,12 @@
         "_f_serverless": {
           "path": "./icons/file_type_serverless.svg"
         },
+        "_f_shadcn": {
+          "path": "./icons/file_type_shadcn.svg"
+        },
+        "_f_light_shadcn": {
+          "path": "./icons/file_type_light_shadcn.svg"
+        },
         "_f_shaderlab": {
           "path": "./icons/file_type_shaderlab.svg"
         },
@@ -5043,6 +5077,9 @@
         },
         "_f_smarty": {
           "path": "./icons/file_type_smarty.svg"
+        },
+        "_f_smithery": {
+          "path": "./icons/file_type_smithery.svg"
         },
         "_f_snakemake": {
           "path": "./icons/file_type_snakemake.svg"
@@ -5383,6 +5420,9 @@
         "_f_unocss": {
           "path": "./icons/file_type_unocss.svg"
         },
+        "_f_uv": {
+          "path": "./icons/file_type_uv.svg"
+        },
         "_f_vagrant": {
           "path": "./icons/file_type_vagrant.svg"
         },
@@ -5637,6 +5677,9 @@
         },
         "al": {
           "path": "./icons/file_type_al.svg"
+        },
+        "alloy": {
+          "path": "./icons/file_type_alloy.svg"
         },
         "ansible": {
           "path": "./icons/file_type_ansible.svg"
@@ -6075,6 +6118,12 @@
         },
         "gleam": {
           "path": "./icons/file_type_gleam.svg"
+        },
+        "glimmer-js": {
+          "path": "./icons/file_type_glimmer.svg"
+        },
+        "glimmer-ts": {
+          "path": "./icons/file_type_glimmer.svg"
         },
         "glsl": {
           "path": "./icons/file_type_glsl.svg"
@@ -7194,16 +7243,19 @@
         "crowdin.yml": "_f_crowdin",
         "cspell.config.json": "_f_cspell",
         "cspell.config.js": "_f_cspell",
+        "cspell.config.mjs": "_f_cspell",
         "cspell.config.cjs": "_f_cspell",
         "cspell.config.yaml": "_f_cspell",
         "cspell.config.yml": "_f_cspell",
         "cspell.json": "_f_cspell",
         "cspell.js": "_f_cspell",
+        "cspell.mjs": "_f_cspell",
         "cspell.cjs": "_f_cspell",
         "cspell.yaml": "_f_cspell",
         "cspell.yml": "_f_cspell",
         ".cspell.json": "_f_cspell",
         ".cspell.js": "_f_cspell",
+        ".cspell.mjs": "_f_cspell",
         ".cspell.cjs": "_f_cspell",
         ".cspell.yaml": "_f_cspell",
         ".cspell.yml": "_f_cspell",
@@ -7647,6 +7699,15 @@
         "motif.json": "_f_motif",
         "mypy.ini": "_f_light_mypy",
         ".mypy.ini": "_f_light_mypy",
+        ".nano-staged.js": "_f_nanostaged",
+        "nano-staged.js": "_f_nanostaged",
+        ".nano-staged.cjs": "_f_nanostaged",
+        "nano-staged.cjs": "_f_nanostaged",
+        ".nano-staged.mjs": "_f_nanostaged",
+        "nano-staged.mjs": "_f_nanostaged",
+        ".nano-staged.json": "_f_nanostaged",
+        "nano-staged.json": "_f_nanostaged",
+        ".nanostagedrc": "_f_nanostaged",
         ".nest-cli.json": "_f_nestjs",
         "nest-cli.json": "_f_nestjs",
         "nestconfig.json": "_f_nestjs",
@@ -7925,9 +7986,11 @@
         "serverless.json": "_f_serverless",
         "serverless.js": "_f_serverless",
         "serverless.ts": "_f_serverless",
+        "components.json": "_f_light_shadcn",
         ".shellcheckrc": "_f_shellcheck",
         "Shuttle.toml": "_f_shuttle",
         "slash-up.config.js": "_f_slashup",
+        "smithery.yaml": "_f_smithery",
         "snapcraft.yaml": "_f_snapcraft",
         "snaplet.config.js": "_f_snaplet",
         "snaplet.config.ts": "_f_snaplet",
@@ -7992,6 +8055,7 @@
         ".stylish-haskell.yaml": "_f_stylish_haskell",
         ".svnignore": "_f_subversion",
         "svelte.config.js": "_f_svelteconfig",
+        "svelte.config.ts": "_f_svelteconfig",
         "svgo.config.cjs": "_f_svgo",
         "svgo.config.js": "_f_svgo",
         "svgo.config.mjs": "_f_svgo",
@@ -8094,6 +8158,7 @@
         "tslint.yaml": "_f_tslint",
         "tslint.yml": "_f_tslint",
         "turbo.json": "_f_light_turbo",
+        "turbo.jsonc": "_f_light_turbo",
         "typedoc.cjs": "_f_typedoc",
         "typedoc.js": "_f_typedoc",
         "typedoc.json": "_f_typedoc",
@@ -8124,6 +8189,7 @@
         "unocss.config.mjs": "_f_unocss",
         "unocss.config.ts": "_f_unocss",
         "unocss.config.mts": "_f_unocss",
+        "uv.lock": "_f_uv",
         "vagrantfile": "_f_vagrant",
         "vapor.yml": "_f_vapor",
         "now.json": "_f_light_vercel",
@@ -8729,6 +8795,8 @@
         "oft": "_f_outlook",
         "ovpn": "_f_ovpn",
         "pkg": "_f_package",
+        "paket.references": "_f_paket",
+        "paket.template": "_f_paket",
         "patch": "_f_patch",
         "pcd": "_f_light_pcl",
         "pdf": "_f_pdf",
@@ -9997,6 +10065,9 @@
         "_f_allcontributors": {
           "path": "./icons/file_type_allcontributors.svg"
         },
+        "_f_alloy": {
+          "path": "./icons/file_type_alloy.svg"
+        },
         "_f_angular": {
           "path": "./icons/file_type_angular.svg"
         },
@@ -10798,6 +10869,9 @@
         "_f_glide": {
           "path": "./icons/file_type_glide.svg"
         },
+        "_f_glimmer": {
+          "path": "./icons/file_type_glimmer.svg"
+        },
         "_f_glitter": {
           "path": "./icons/file_type_glitter.svg"
         },
@@ -11421,6 +11495,9 @@
         },
         "_f_light_mypy": {
           "path": "./icons/file_type_light_mypy.svg"
+        },
+        "_f_nanostaged": {
+          "path": "./icons/file_type_nanostaged.svg"
         },
         "_f_ndst": {
           "path": "./icons/file_type_ndst.svg"
@@ -12049,6 +12126,12 @@
         "_f_serverless": {
           "path": "./icons/file_type_serverless.svg"
         },
+        "_f_shadcn": {
+          "path": "./icons/file_type_shadcn.svg"
+        },
+        "_f_light_shadcn": {
+          "path": "./icons/file_type_light_shadcn.svg"
+        },
         "_f_shaderlab": {
           "path": "./icons/file_type_shaderlab.svg"
         },
@@ -12099,6 +12182,9 @@
         },
         "_f_smarty": {
           "path": "./icons/file_type_smarty.svg"
+        },
+        "_f_smithery": {
+          "path": "./icons/file_type_smithery.svg"
         },
         "_f_snakemake": {
           "path": "./icons/file_type_snakemake.svg"
@@ -12439,6 +12525,9 @@
         "_f_unocss": {
           "path": "./icons/file_type_unocss.svg"
         },
+        "_f_uv": {
+          "path": "./icons/file_type_uv.svg"
+        },
         "_f_vagrant": {
           "path": "./icons/file_type_vagrant.svg"
         },
@@ -12693,6 +12782,9 @@
         },
         "al": {
           "path": "./icons/file_type_al.svg"
+        },
+        "alloy": {
+          "path": "./icons/file_type_alloy.svg"
         },
         "ansible": {
           "path": "./icons/file_type_ansible.svg"
@@ -13131,6 +13223,12 @@
         },
         "gleam": {
           "path": "./icons/file_type_gleam.svg"
+        },
+        "glimmer-js": {
+          "path": "./icons/file_type_glimmer.svg"
+        },
+        "glimmer-ts": {
+          "path": "./icons/file_type_glimmer.svg"
         },
         "glsl": {
           "path": "./icons/file_type_glsl.svg"
