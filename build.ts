@@ -22,14 +22,24 @@ interface IconDefinition {
 
 interface VSCodeIconsManifest {
   iconDefinitions: Record<string, IconDefinition>;
+  file: string;
   folder: string;
   folderExpanded: string;
+  rootFolder: string;
+  rootFolderExpanded: string;
+  folderNames: Record<string, string>;
+  folderNamesExpanded: Record<string, string>;
   fileExtensions: Record<string, string>;
   fileNames: Record<string, string>;
   languageIds?: Record<string, string>;
   light?: {
+    file?: string;
     folder?: string;
     folderExpanded?: string;
+    rootFolder?: string;
+    rootFolderExpanded?: string;
+    folderNames?: Record<string, string>;
+    folderNamesExpanded?: Record<string, string>;
     fileExtensions?: Record<string, string>;
     fileNames?: Record<string, string>;
     languageIds?: Record<string, string>;
