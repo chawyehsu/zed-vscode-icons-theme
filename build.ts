@@ -54,6 +54,7 @@ interface ZedIconThemeVariant {
     collapsed: string | null;
     expanded: string | null;
   };
+  named_directory_icons?: Record<string, { collapsed: string; expanded: string}>;
   file_stems: Record<string, string>;
   file_suffixes: Record<string, string>;
   file_icons: Record<string, { path: string }>;
@@ -179,7 +180,7 @@ function convertManifest(vsManifest: VSCodeIconsManifest): ZedIconTheme {
 
   // Create the base Zed icon theme structure
   const zedManifest: ZedIconTheme = {
-    $schema: "https://zed.dev/schema/icon_themes/v0.2.0.json",
+    $schema: "https://zed.dev/schema/icon_themes/v0.3.0.json",
     name: "VSCode Icons Theme",
     author: "Chawye Hsu",
     themes: [],
@@ -192,6 +193,7 @@ function convertManifest(vsManifest: VSCodeIconsManifest): ZedIconTheme {
       collapsed: null,
       expanded: null,
     },
+    named_directory_icons: {},
     file_stems: {},
     file_suffixes: {},
     file_icons: {},
@@ -253,6 +255,7 @@ function convertManifest(vsManifest: VSCodeIconsManifest): ZedIconTheme {
         collapsed: null,
         expanded: null,
       },
+      named_directory_icons: {},
       file_stems: {},
       file_suffixes: {},
       file_icons: {},
