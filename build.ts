@@ -248,7 +248,7 @@ function convertManifest(vsManifest: VSCodeIconsManifest): ZedIconTheme {
   })
 
   // Process language IDs
-  // processLanguageIds(vsManifest.languageIds, vsManifest.iconDefinitions, darkTheme.file_icons)
+  processLanguageIds(vsManifest.languageIds, vsManifest.iconDefinitions, darkTheme.file_icons)
 
   // Add the dark theme to the themes array
   zedManifest.themes.push(darkTheme)
@@ -310,9 +310,9 @@ function convertManifest(vsManifest: VSCodeIconsManifest): ZedIconTheme {
     })
 
     // Process language IDs
-    // if (light.languageIds) {
-    //   processLanguageIds(light.languageIds, vsManifest.iconDefinitions, lightTheme.file_icons)
-    // }
+    if (light.languageIds) {
+      processLanguageIds(light.languageIds, vsManifest.iconDefinitions, lightTheme.file_icons)
+    }
 
     // Add light theme to the themes array
     zedManifest.themes.push(lightTheme)

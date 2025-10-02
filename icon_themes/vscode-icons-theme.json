@@ -5289,6 +5289,1461 @@
         },
         "_f_zip": {
           "path": "./icons/file_type_zip.svg"
+        },
+        "actionscript": {
+          "path": "./icons/file_type_actionscript.svg"
+        },
+        "ada": {
+          "path": "./icons/file_type_ada.svg"
+        },
+        "advpl": {
+          "path": "./icons/file_type_advpl.svg"
+        },
+        "affectscript": {
+          "path": "./icons/file_type_affectscript.svg"
+        },
+        "agda": {
+          "path": "./icons/file_type_agda.svg"
+        },
+        "lagda-md": {
+          "path": "./icons/file_type_agda.svg"
+        },
+        "lagda-rst": {
+          "path": "./icons/file_type_agda.svg"
+        },
+        "lagda-tex": {
+          "path": "./icons/file_type_agda.svg"
+        },
+        "al": {
+          "path": "./icons/file_type_al.svg"
+        },
+        "alloy": {
+          "path": "./icons/file_type_alloy.svg"
+        },
+        "ansible": {
+          "path": "./icons/file_type_ansible.svg"
+        },
+        "antlr": {
+          "path": "./icons/file_type_antlr.svg"
+        },
+        "anyscript": {
+          "path": "./icons/file_type_anyscript.svg"
+        },
+        "apacheconf": {
+          "path": "./icons/file_type_apache.svg"
+        },
+        "apex": {
+          "path": "./icons/file_type_apex.svg"
+        },
+        "apiblueprint": {
+          "path": "./icons/file_type_apib.svg"
+        },
+        "apl": {
+          "path": "./icons/file_type_apl.svg"
+        },
+        "applescript": {
+          "path": "./icons/file_type_applescript.svg"
+        },
+        "asciidoc": {
+          "path": "./icons/file_type_asciidoc.svg"
+        },
+        "asp": {
+          "path": "./icons/file_type_asp.svg"
+        },
+        "asp (html)": {
+          "path": "./icons/file_type_asp.svg"
+        },
+        "arm": {
+          "path": "./icons/file_type_assembly.svg"
+        },
+        "asm": {
+          "path": "./icons/file_type_assembly.svg"
+        },
+        "asm-intel-x86-generic": {
+          "path": "./icons/file_type_assembly.svg"
+        },
+        "platformio-debug.asm": {
+          "path": "./icons/file_type_platformio.svg"
+        },
+        "asm-collection": {
+          "path": "./icons/file_type_assembly.svg"
+        },
+        "astro": {
+          "path": "./icons/file_type_astro.svg"
+        },
+        "ats": {
+          "path": "./icons/file_type_ats.svg"
+        },
+        "ahk": {
+          "path": "./icons/file_type_autohotkey.svg"
+        },
+        "autoit": {
+          "path": "./icons/file_type_autoit.svg"
+        },
+        "avro": {
+          "path": "./icons/file_type_avro.svg"
+        },
+        "azcli": {
+          "path": "./icons/file_type_azure.svg"
+        },
+        "azure-pipelines": {
+          "path": "./icons/file_type_azurepipelines.svg"
+        },
+        "ballerina": {
+          "path": "./icons/file_type_ballerina.svg"
+        },
+        "bat": {
+          "path": "./icons/file_type_bat.svg"
+        },
+        "bats": {
+          "path": "./icons/file_type_bats.svg"
+        },
+        "bazel": {
+          "path": "./icons/file_type_bazel.svg"
+        },
+        "bazelrc": {
+          "path": "./icons/file_type_bazel.svg"
+        },
+        "starlark": {
+          "path": "./icons/file_type_bazel.svg"
+        },
+        "befunge": {
+          "path": "./icons/file_type_befunge.svg"
+        },
+        "befunge98": {
+          "path": "./icons/file_type_befunge.svg"
+        },
+        "bicep": {
+          "path": "./icons/file_type_bicep.svg"
+        },
+        "biml": {
+          "path": "./icons/file_type_biml.svg"
+        },
+        "code-text-binary": {
+          "path": "./icons/file_type_binary.svg"
+        },
+        "biome_syntax_tree": {
+          "path": "./icons/file_type_biome.svg"
+        },
+        "blade": {
+          "path": "./icons/file_type_blade.svg"
+        },
+        "laravel-blade": {
+          "path": "./icons/file_type_blade.svg"
+        },
+        "blitzbasic": {
+          "path": "./icons/file_type_blitzbasic.svg"
+        },
+        "bolt": {
+          "path": "./icons/file_type_bolt.svg"
+        },
+        "bosque": {
+          "path": "./icons/file_type_bosque.svg"
+        },
+        "browserslist": {
+          "path": "./icons/file_type_browserslist.svg"
+        },
+        "bruno": {
+          "path": "./icons/file_type_bruno.svg"
+        },
+        "buf": {
+          "path": "./icons/file_type_buf.svg"
+        },
+        "buf-gen": {
+          "path": "./icons/file_type_buf.svg"
+        },
+        "bun.lockb": {
+          "path": "./icons/file_type_bun.svg"
+        },
+        "c": {
+          "path": "./icons/file_type_c.svg"
+        },
+        "c3": {
+          "path": "./icons/file_type_c3.svg"
+        },
+        "c-al": {
+          "path": "./icons/file_type_c_al.svg"
+        },
+        "cabal": {
+          "path": "./icons/file_type_cabal.svg"
+        },
+        "caddyfile": {
+          "path": "./icons/file_type_caddy.svg"
+        },
+        "capnp": {
+          "path": "./icons/file_type_capnp.svg"
+        },
+        "capnproto": {
+          "path": "./icons/file_type_capnp.svg"
+        },
+        "casc": {
+          "path": "./icons/file_type_casc.svg"
+        },
+        "cddl": {
+          "path": "./icons/file_type_cddl.svg"
+        },
+        "ceylon": {
+          "path": "./icons/file_type_ceylon.svg"
+        },
+        "cfml": {
+          "path": "./icons/file_type_cf.svg"
+        },
+        "lang-cfml": {
+          "path": "./icons/file_type_cf.svg"
+        },
+        "cfc": {
+          "path": "./icons/file_type_cfc.svg"
+        },
+        "cfmhtml": {
+          "path": "./icons/file_type_cfm.svg"
+        },
+        "cookbook": {
+          "path": "./icons/file_type_chef_cookbook.svg"
+        },
+        "clojure": {
+          "path": "./icons/file_type_clojure.svg"
+        },
+        "clojurescript": {
+          "path": "./icons/file_type_clojurescript.svg"
+        },
+        "manifest-yaml": {
+          "path": "./icons/file_type_cloudfoundry.svg"
+        },
+        "cmake": {
+          "path": "./icons/file_type_cmake.svg"
+        },
+        "cmake-cache": {
+          "path": "./icons/file_type_cmake.svg"
+        },
+        "cobol": {
+          "path": "./icons/file_type_cobol.svg"
+        },
+        "ql": {
+          "path": "./icons/file_type_codeql.svg"
+        },
+        "coffeescript": {
+          "path": "./icons/file_type_coffeescript.svg"
+        },
+        "java-properties": {
+          "path": "./icons/file_type_config.svg"
+        },
+        "properties": {
+          "path": "./icons/file_type_config.svg"
+        },
+        "spring-boot-properties": {
+          "path": "./icons/file_type_config.svg"
+        },
+        "confluence": {
+          "path": "./icons/file_type_confluence.svg"
+        },
+        "instructions": {
+          "path": "./icons/file_type_copilot.svg"
+        },
+        "prompt": {
+          "path": "./icons/file_type_copilot.svg"
+        },
+        "cpp": {
+          "path": "./icons/file_type_cpp.svg"
+        },
+        "crystal": {
+          "path": "./icons/file_type_crystal.svg"
+        },
+        "csharp": {
+          "path": "./icons/file_type_csharp.svg"
+        },
+        "css": {
+          "path": "./icons/file_type_css.svg"
+        },
+        "cucumber": {
+          "path": "./icons/file_type_cucumber.svg"
+        },
+        "feature": {
+          "path": "./icons/file_type_cucumber.svg"
+        },
+        "cuda": {
+          "path": "./icons/file_type_cuda.svg"
+        },
+        "cuda-cpp": {
+          "path": "./icons/file_type_cuda.svg"
+        },
+        "cython": {
+          "path": "./icons/file_type_cython.svg"
+        },
+        "dal": {
+          "path": "./icons/file_type_dal.svg"
+        },
+        "dart": {
+          "path": "./icons/file_type_dartlang.svg"
+        },
+        "debian-changelog": {
+          "path": "./icons/file_type_debian.svg"
+        },
+        "debian-control": {
+          "path": "./icons/file_type_debian.svg"
+        },
+        "debian-copyright": {
+          "path": "./icons/file_type_debian.svg"
+        },
+        "debian-upstream-metadata": {
+          "path": "./icons/file_type_debian.svg"
+        },
+        "pascal": {
+          "path": "./icons/file_type_delphi.svg"
+        },
+        "objectpascal": {
+          "path": "./icons/file_type_delphi.svg"
+        },
+        "dhall": {
+          "path": "./icons/file_type_dhall.svg"
+        },
+        "diff": {
+          "path": "./icons/file_type_diff.svg"
+        },
+        "django-html": {
+          "path": "./icons/file_type_django.svg"
+        },
+        "django-txt": {
+          "path": "./icons/file_type_django.svg"
+        },
+        "d": {
+          "path": "./icons/file_type_dlang.svg"
+        },
+        "dscript": {
+          "path": "./icons/file_type_dlang.svg"
+        },
+        "dml": {
+          "path": "./icons/file_type_dlang.svg"
+        },
+        "diet": {
+          "path": "./icons/file_type_dlang.svg"
+        },
+        "dockerbake": {
+          "path": "./icons/file_type_docker.svg"
+        },
+        "dockercompose": {
+          "path": "./icons/file_type_docker.svg"
+        },
+        "dockerfile": {
+          "path": "./icons/file_type_docker.svg"
+        },
+        "dotenv": {
+          "path": "./icons/file_type_dotenv.svg"
+        },
+        "env": {
+          "path": "./icons/file_type_dotenv.svg"
+        },
+        "dotjs": {
+          "path": "./icons/file_type_dotjs.svg"
+        },
+        "doxygen": {
+          "path": "./icons/file_type_doxygen.svg"
+        },
+        "drawio": {
+          "path": "./icons/file_type_drawio.svg"
+        },
+        "drools": {
+          "path": "./icons/file_type_drools.svg"
+        },
+        "dtd": {
+          "path": "./icons/file_type_dtd.svg"
+        },
+        "dustjs": {
+          "path": "./icons/file_type_dustjs.svg"
+        },
+        "dylan": {
+          "path": "./icons/file_type_dylan.svg"
+        },
+        "dylan-lid": {
+          "path": "./icons/file_type_dylan.svg"
+        },
+        "earthfile": {
+          "path": "./icons/file_type_earthly.svg"
+        },
+        "edge": {
+          "path": "./icons/file_type_edge.svg"
+        },
+        "editorconfig": {
+          "path": "./icons/file_type_editorconfig.svg"
+        },
+        "eex": {
+          "path": "./icons/file_type_eex.svg"
+        },
+        "html-eex": {
+          "path": "./icons/file_type_eex.svg"
+        },
+        "es": {
+          "path": "./icons/file_type_elastic.svg"
+        },
+        "elixir": {
+          "path": "./icons/file_type_elixir.svg"
+        },
+        "elm": {
+          "path": "./icons/file_type_elm.svg"
+        },
+        "erb": {
+          "path": "./icons/file_type_erb.svg"
+        },
+        "html.erb": {
+          "path": "./icons/file_type_erb.svg"
+        },
+        "erlang": {
+          "path": "./icons/file_type_erlang.svg"
+        },
+        "esphome": {
+          "path": "./icons/file_type_esphome.svg"
+        },
+        "excel": {
+          "path": "./icons/file_type_excel.svg"
+        },
+        "falcon": {
+          "path": "./icons/file_type_falcon.svg"
+        },
+        "fql": {
+          "path": "./icons/file_type_fauna.svg"
+        },
+        "fortran": {
+          "path": "./icons/file_type_fortran.svg"
+        },
+        "fortran-modern": {
+          "path": "./icons/file_type_fortran.svg"
+        },
+        "FortranFreeForm": {
+          "path": "./icons/file_type_fortran.svg"
+        },
+        "FortranFixedForm": {
+          "path": "./icons/file_type_fortran.svg"
+        },
+        "fortran_fixed-form": {
+          "path": "./icons/file_type_fortran.svg"
+        },
+        "ftl": {
+          "path": "./icons/file_type_freemarker.svg"
+        },
+        "fsharp": {
+          "path": "./icons/file_type_fsharp.svg"
+        },
+        "fthtml": {
+          "path": "./icons/file_type_fthtml.svg"
+        },
+        "galen": {
+          "path": "./icons/file_type_galen.svg"
+        },
+        "gml-gms": {
+          "path": "./icons/file_type_gamemaker.svg"
+        },
+        "gml-gms2": {
+          "path": "./icons/file_type_gamemaker2.svg"
+        },
+        "gml-gm81": {
+          "path": "./icons/file_type_gamemaker81.svg"
+        },
+        "gcode": {
+          "path": "./icons/file_type_gcode.svg"
+        },
+        "gdscript": {
+          "path": "./icons/file_type_gdscript.svg"
+        },
+        "genstat": {
+          "path": "./icons/file_type_genstat.svg"
+        },
+        "git-commit": {
+          "path": "./icons/file_type_git.svg"
+        },
+        "git-rebase": {
+          "path": "./icons/file_type_git.svg"
+        },
+        "ignore": {
+          "path": "./icons/file_type_git.svg"
+        },
+        "gleam": {
+          "path": "./icons/file_type_gleam.svg"
+        },
+        "glimmer-js": {
+          "path": "./icons/file_type_glimmer.svg"
+        },
+        "glimmer-ts": {
+          "path": "./icons/file_type_glimmer.svg"
+        },
+        "glsl": {
+          "path": "./icons/file_type_glsl.svg"
+        },
+        "glyphs": {
+          "path": "./icons/file_type_glyphs.svg"
+        },
+        "automake": {
+          "path": "./icons/file_type_gnu.svg"
+        },
+        "m4": {
+          "path": "./icons/file_type_gnu.svg"
+        },
+        "makefile": {
+          "path": "./icons/file_type_gnu.svg"
+        },
+        "makefile2": {
+          "path": "./icons/file_type_gnu.svg"
+        },
+        "gnuplot": {
+          "path": "./icons/file_type_gnuplot.svg"
+        },
+        "go": {
+          "path": "./icons/file_type_go.svg"
+        },
+        "go.mod": {
+          "path": "./icons/file_type_go_package.svg"
+        },
+        "go.work": {
+          "path": "./icons/file_type_go_work.svg"
+        },
+        "goctl": {
+          "path": "./icons/file_type_goctl.svg"
+        },
+        "gradle-kotlin-dsl": {
+          "path": "./icons/file_type_gradle.svg"
+        },
+        "grain": {
+          "path": "./icons/file_type_grain.svg"
+        },
+        "graphql": {
+          "path": "./icons/file_type_graphql.svg"
+        },
+        "dot": {
+          "path": "./icons/file_type_graphviz.svg"
+        },
+        "groovy": {
+          "path": "./icons/file_type_groovy.svg"
+        },
+        "haml": {
+          "path": "./icons/file_type_haml.svg"
+        },
+        "handlebars": {
+          "path": "./icons/file_type_handlebars.svg"
+        },
+        "harbour": {
+          "path": "./icons/file_type_harbour.svg"
+        },
+        "hcl": {
+          "path": "./icons/file_type_hashicorp.svg"
+        },
+        "haskell": {
+          "path": "./icons/file_type_haskell.svg"
+        },
+        "literate haskell": {
+          "path": "./icons/file_type_haskell.svg"
+        },
+        "haxe": {
+          "path": "./icons/file_type_haxe.svg"
+        },
+        "hxml": {
+          "path": "./icons/file_type_haxe.svg"
+        },
+        "Haxe AST dump": {
+          "path": "./icons/file_type_haxe.svg"
+        },
+        "helm": {
+          "path": "./icons/file_type_helm.svg"
+        },
+        "hjson": {
+          "path": "./icons/file_type_hjson.svg"
+        },
+        "hlsl": {
+          "path": "./icons/file_type_hlsl.svg"
+        },
+        "home-assistant": {
+          "path": "./icons/file_type_homeassistant.svg"
+        },
+        "hosts": {
+          "path": "./icons/file_type_host.svg"
+        },
+        "html": {
+          "path": "./icons/file_type_html.svg"
+        },
+        "http": {
+          "path": "./icons/file_type_http.svg"
+        },
+        "hunspell.aff": {
+          "path": "./icons/file_type_hunspell.svg"
+        },
+        "hunspell.dic": {
+          "path": "./icons/file_type_hunspell.svg"
+        },
+        "hy": {
+          "path": "./icons/file_type_hy.svg"
+        },
+        "hypr": {
+          "path": "./icons/file_type_hypr.svg"
+        },
+        "icl": {
+          "path": "./icons/file_type_icl.svg"
+        },
+        "imba": {
+          "path": "./icons/file_type_imba.svg"
+        },
+        "4GL": {
+          "path": "./icons/file_type_informix.svg"
+        },
+        "ini": {
+          "path": "./icons/file_type_ini.svg"
+        },
+        "ink": {
+          "path": "./icons/file_type_ink.svg"
+        },
+        "innosetup": {
+          "path": "./icons/file_type_innosetup.svg"
+        },
+        "io": {
+          "path": "./icons/file_type_io.svg"
+        },
+        "iodine": {
+          "path": "./icons/file_type_iodine.svg"
+        },
+        "janet": {
+          "path": "./icons/file_type_janet.svg"
+        },
+        "java": {
+          "path": "./icons/file_type_java.svg"
+        },
+        "jekyll": {
+          "path": "./icons/file_type_jekyll.svg"
+        },
+        "jenkins": {
+          "path": "./icons/file_type_jenkins.svg"
+        },
+        "declarative": {
+          "path": "./icons/file_type_jenkins.svg"
+        },
+        "jenkinsfile": {
+          "path": "./icons/file_type_jenkins.svg"
+        },
+        "jest-snapshot": {
+          "path": "./icons/file_type_jest_snapshot.svg"
+        },
+        "jinja": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-java": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-html": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-xml": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-css": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-json": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-md": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-py": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-rb": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-js": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-yaml": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-toml": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-latex": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-lua": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-properties": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-shell": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-dockerfile": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-sql": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-terraform": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-nginx": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-groovy": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-systemd": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-cpp": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "javascript": {
+          "path": "./icons/file_type_js.svg"
+        },
+        "json": {
+          "path": "./icons/file_type_json.svg"
+        },
+        "json-tmlanguage": {
+          "path": "./icons/file_type_json.svg"
+        },
+        "jsonc": {
+          "path": "./icons/file_type_json.svg"
+        },
+        "jsonl": {
+          "path": "./icons/file_type_json.svg"
+        },
+        "json5": {
+          "path": "./icons/file_type_json5.svg"
+        },
+        "jsonnet": {
+          "path": "./icons/file_type_jsonnet.svg"
+        },
+        "julia": {
+          "path": "./icons/file_type_julia.svg"
+        },
+        "juliamarkdown": {
+          "path": "./icons/file_type_julia.svg"
+        },
+        "just": {
+          "path": "./icons/file_type_just.svg"
+        },
+        "k": {
+          "path": "./icons/file_type_k.svg"
+        },
+        "kivy": {
+          "path": "./icons/file_type_kivy.svg"
+        },
+        "kos": {
+          "path": "./icons/file_type_kos.svg"
+        },
+        "kotlin": {
+          "path": "./icons/file_type_kotlin.svg"
+        },
+        "kotlinscript": {
+          "path": "./icons/file_type_kotlin.svg"
+        },
+        "kusto": {
+          "path": "./icons/file_type_kusto.svg"
+        },
+        "lark": {
+          "path": "./icons/file_type_lark.svg"
+        },
+        "latino": {
+          "path": "./icons/file_type_latino.svg"
+        },
+        "lean4": {
+          "path": "./icons/file_type_lean.svg"
+        },
+        "lean4markdown": {
+          "path": "./icons/file_type_lean.svg"
+        },
+        "less": {
+          "path": "./icons/file_type_less.svg"
+        },
+        "lex": {
+          "path": "./icons/file_type_lex.svg"
+        },
+        "lilypond": {
+          "path": "./icons/file_type_lilypond.svg"
+        },
+        "lisp": {
+          "path": "./icons/file_type_lisp.svg"
+        },
+        "autolisp": {
+          "path": "./icons/file_type_lisp.svg"
+        },
+        "autolispdcl": {
+          "path": "./icons/file_type_lisp.svg"
+        },
+        "log": {
+          "path": "./icons/file_type_log.svg"
+        },
+        "lolcode": {
+          "path": "./icons/file_type_lolcode.svg"
+        },
+        "lsl": {
+          "path": "./icons/file_type_lsl.svg"
+        },
+        "lua": {
+          "path": "./icons/file_type_lua.svg"
+        },
+        "markdown": {
+          "path": "./icons/file_type_markdown.svg"
+        },
+        "marko": {
+          "path": "./icons/file_type_marko.svg"
+        },
+        "matlab": {
+          "path": "./icons/file_type_matlab.svg"
+        },
+        "maxscript": {
+          "path": "./icons/file_type_maxscript.svg"
+        },
+        "mel": {
+          "path": "./icons/file_type_maya.svg"
+        },
+        "mdx": {
+          "path": "./icons/file_type_mdx.svg"
+        },
+        "mediawiki": {
+          "path": "./icons/file_type_mediawiki.svg"
+        },
+        "mermaid": {
+          "path": "./icons/file_type_mermaid.svg"
+        },
+        "meson": {
+          "path": "./icons/file_type_meson.svg"
+        },
+        "metal": {
+          "path": "./icons/file_type_metal.svg"
+        },
+        "bc-mcfunction": {
+          "path": "./icons/file_type_minecraft.svg"
+        },
+        "bc-minecraft-language": {
+          "path": "./icons/file_type_minecraft.svg"
+        },
+        "bc-minecraft-molang": {
+          "path": "./icons/file_type_minecraft.svg"
+        },
+        "bc-minecraft-project": {
+          "path": "./icons/file_type_minecraft.svg"
+        },
+        "mcdoc": {
+          "path": "./icons/file_type_minecraft.svg"
+        },
+        "mcfunction": {
+          "path": "./icons/file_type_minecraft.svg"
+        },
+        "mcmeta": {
+          "path": "./icons/file_type_minecraft.svg"
+        },
+        "mcscript": {
+          "path": "./icons/file_type_minecraft.svg"
+        },
+        "minecraft-lang": {
+          "path": "./icons/file_type_minecraft.svg"
+        },
+        "options-txt": {
+          "path": "./icons/file_type_minecraft.svg"
+        },
+        "snbt": {
+          "path": "./icons/file_type_minecraft.svg"
+        },
+        "mv": {
+          "path": "./icons/file_type_mivascript.svg"
+        },
+        "mjml": {
+          "path": "./icons/file_type_mjml.svg"
+        },
+        "powerquery": {
+          "path": "./icons/file_type_mlang.svg"
+        },
+        "mojo": {
+          "path": "./icons/file_type_mojo.svg"
+        },
+        "mojolicious": {
+          "path": "./icons/file_type_mojolicious.svg"
+        },
+        "mongo": {
+          "path": "./icons/file_type_mongo.svg"
+        },
+        "mson": {
+          "path": "./icons/file_type_mson.svg"
+        },
+        "mvt": {
+          "path": "./icons/file_type_mvt.svg"
+        },
+        "mvtcss": {
+          "path": "./icons/file_type_mvtcss.svg"
+        },
+        "mvtjs": {
+          "path": "./icons/file_type_mvtjs.svg"
+        },
+        "nearley": {
+          "path": "./icons/file_type_nearly.svg"
+        },
+        "cypher": {
+          "path": "./icons/file_type_neo4j.svg"
+        },
+        "nginx": {
+          "path": "./icons/file_type_nginx.svg"
+        },
+        "nim": {
+          "path": "./icons/file_type_nim.svg"
+        },
+        "nimble": {
+          "path": "./icons/file_type_nimble.svg"
+        },
+        "nix": {
+          "path": "./icons/file_type_nix.svg"
+        },
+        "nsis": {
+          "path": "./icons/file_type_nsi.svg"
+        },
+        "nfl": {
+          "path": "./icons/file_type_nsi.svg"
+        },
+        "nsl": {
+          "path": "./icons/file_type_nsi.svg"
+        },
+        "bridlensis": {
+          "path": "./icons/file_type_nsi.svg"
+        },
+        "nunjucks": {
+          "path": "./icons/file_type_nunjucks.svg"
+        },
+        "objective-c": {
+          "path": "./icons/file_type_objectivec.svg"
+        },
+        "objective-cpp": {
+          "path": "./icons/file_type_objectivecpp.svg"
+        },
+        "ocaml": {
+          "path": "./icons/file_type_ocaml.svg"
+        },
+        "ocamllex": {
+          "path": "./icons/file_type_ocaml.svg"
+        },
+        "menhir": {
+          "path": "./icons/file_type_ocaml.svg"
+        },
+        "ogone": {
+          "path": "./icons/file_type_ogone.svg"
+        },
+        "openhab": {
+          "path": "./icons/file_type_openHAB.svg"
+        },
+        "scad": {
+          "path": "./icons/file_type_openscad.svg"
+        },
+        "org": {
+          "path": "./icons/file_type_org.svg"
+        },
+        "pddl": {
+          "path": "./icons/file_type_pddl.svg"
+        },
+        "happenings": {
+          "path": "./icons/file_type_pddl_happenings.svg"
+        },
+        "plan": {
+          "path": "./icons/file_type_pddl_plan.svg"
+        },
+        "perl": {
+          "path": "./icons/file_type_perl.svg"
+        },
+        "perl6": {
+          "path": "./icons/file_type_perl6.svg"
+        },
+        "pgsql": {
+          "path": "./icons/file_type_pgsql.svg"
+        },
+        "php": {
+          "path": "./icons/file_type_php.svg"
+        },
+        "pine": {
+          "path": "./icons/file_type_pine.svg"
+        },
+        "pinescript": {
+          "path": "./icons/file_type_pine.svg"
+        },
+        "pip-requirements": {
+          "path": "./icons/file_type_pip.svg"
+        },
+        "platformio-debug.disassembly": {
+          "path": "./icons/file_type_platformio.svg"
+        },
+        "platformio-debug.memoryview": {
+          "path": "./icons/file_type_platformio.svg"
+        },
+        "plsql": {
+          "path": "./icons/file_type_plsql.svg"
+        },
+        "oracle": {
+          "path": "./icons/file_type_plsql.svg"
+        },
+        "oraclesql": {
+          "path": "./icons/file_type_plsql.svg"
+        },
+        "oracle-sql": {
+          "path": "./icons/file_type_plsql.svg"
+        },
+        "po": {
+          "path": "./icons/file_type_poedit.svg"
+        },
+        "polymer": {
+          "path": "./icons/file_type_polymer.svg"
+        },
+        "pony": {
+          "path": "./icons/file_type_pony.svg"
+        },
+        "postcss": {
+          "path": "./icons/file_type_postcss.svg"
+        },
+        "powershell": {
+          "path": "./icons/file_type_powershell.svg"
+        },
+        "prisma": {
+          "path": "./icons/file_type_prisma.svg"
+        },
+        "pde": {
+          "path": "./icons/file_type_processinglang.svg"
+        },
+        "abl": {
+          "path": "./icons/file_type_progress.svg"
+        },
+        "prolog": {
+          "path": "./icons/file_type_prolog.svg"
+        },
+        "prometheus": {
+          "path": "./icons/file_type_prometheus.svg"
+        },
+        "proto3": {
+          "path": "./icons/file_type_protobuf.svg"
+        },
+        "proto": {
+          "path": "./icons/file_type_protobuf.svg"
+        },
+        "prototext": {
+          "path": "./icons/file_type_protobuf.svg"
+        },
+        "jade": {
+          "path": "./icons/file_type_pug.svg"
+        },
+        "puppet": {
+          "path": "./icons/file_type_puppet.svg"
+        },
+        "purescript": {
+          "path": "./icons/file_type_purescript.svg"
+        },
+        "pyret": {
+          "path": "./icons/file_type_pyret.svg"
+        },
+        "pyscript": {
+          "path": "./icons/file_type_pyscript.svg"
+        },
+        "python": {
+          "path": "./icons/file_type_python.svg"
+        },
+        "pythowo": {
+          "path": "./icons/file_type_pythowo.svg"
+        },
+        "qlik": {
+          "path": "./icons/file_type_qlikview.svg"
+        },
+        "qml": {
+          "path": "./icons/file_type_qml.svg"
+        },
+        "qsharp": {
+          "path": "./icons/file_type_qsharp.svg"
+        },
+        "r": {
+          "path": "./icons/file_type_r.svg"
+        },
+        "ra_syntax_tree": {
+          "path": "./icons/file_type_ra_syntax_tree.svg"
+        },
+        "racket": {
+          "path": "./icons/file_type_racket.svg"
+        },
+        "raku": {
+          "path": "./icons/file_type_raku.svg"
+        },
+        "raml": {
+          "path": "./icons/file_type_raml.svg"
+        },
+        "razor": {
+          "path": "./icons/file_type_razor.svg"
+        },
+        "aspnetcorerazor": {
+          "path": "./icons/file_type_razor.svg"
+        },
+        "javascriptreact": {
+          "path": "./icons/file_type_reactjs.svg"
+        },
+        "typescriptreact": {
+          "path": "./icons/file_type_reactts.svg"
+        },
+        "reason": {
+          "path": "./icons/file_type_reason.svg"
+        },
+        "red": {
+          "path": "./icons/file_type_red.svg"
+        },
+        "rescript": {
+          "path": "./icons/file_type_rescript.svg"
+        },
+        "restructuredtext": {
+          "path": "./icons/file_type_rest.svg"
+        },
+        "rexx": {
+          "path": "./icons/file_type_rexx.svg"
+        },
+        "riot": {
+          "path": "./icons/file_type_riot.svg"
+        },
+        "rmd": {
+          "path": "./icons/file_type_rmd.svg"
+        },
+        "rnc": {
+          "path": "./icons/file_type_rnc.svg"
+        },
+        "robot": {
+          "path": "./icons/file_type_robotframework.svg"
+        },
+        "ruby": {
+          "path": "./icons/file_type_ruby.svg"
+        },
+        "rust": {
+          "path": "./icons/file_type_rust.svg"
+        },
+        "s-lang": {
+          "path": "./icons/file_type_s-lang.svg"
+        },
+        "san": {
+          "path": "./icons/file_type_san.svg"
+        },
+        "SAS": {
+          "path": "./icons/file_type_sas.svg"
+        },
+        "sass": {
+          "path": "./icons/file_type_sass.svg"
+        },
+        "sass.hover": {
+          "path": "./icons/file_type_sass.svg"
+        },
+        "sbt": {
+          "path": "./icons/file_type_sbt.svg"
+        },
+        "scala": {
+          "path": "./icons/file_type_scala.svg"
+        },
+        "scilab": {
+          "path": "./icons/file_type_scilab.svg"
+        },
+        "vbscript": {
+          "path": "./icons/file_type_script.svg"
+        },
+        "scss": {
+          "path": "./icons/file_type_scss.svg"
+        },
+        "sdl": {
+          "path": "./icons/file_type_sdlang.svg"
+        },
+        "search-result": {
+          "path": "./icons/file_type_search_result.svg"
+        },
+        "shaderlab": {
+          "path": "./icons/file_type_shaderlab.svg"
+        },
+        "shellscript": {
+          "path": "./icons/file_type_shell.svg"
+        },
+        "silverstripe": {
+          "path": "./icons/file_type_silverstripe.svg"
+        },
+        "sino": {
+          "path": "./icons/file_type_sino.svg"
+        },
+        "eskip": {
+          "path": "./icons/file_type_skipper.svg"
+        },
+        "slang": {
+          "path": "./icons/file_type_slang.svg"
+        },
+        "slice": {
+          "path": "./icons/file_type_slice.svg"
+        },
+        "slim": {
+          "path": "./icons/file_type_slim.svg"
+        },
+        "slint": {
+          "path": "./icons/file_type_slint.svg"
+        },
+        "sln": {
+          "path": "./icons/file_type_sln.svg"
+        },
+        "smarty": {
+          "path": "./icons/file_type_smarty.svg"
+        },
+        "snakemake": {
+          "path": "./icons/file_type_snakemake.svg"
+        },
+        "snort": {
+          "path": "./icons/file_type_snort.svg"
+        },
+        "solidity": {
+          "path": "./icons/file_type_solidity.svg"
+        },
+        "sparql": {
+          "path": "./icons/file_type_sparql.svg"
+        },
+        "sqf": {
+          "path": "./icons/file_type_sqf.svg"
+        },
+        "sql": {
+          "path": "./icons/file_type_sql.svg"
+        },
+        "squirrel": {
+          "path": "./icons/file_type_squirrel.svg"
+        },
+        "stan": {
+          "path": "./icons/file_type_stan.svg"
+        },
+        "stata": {
+          "path": "./icons/file_type_stata.svg"
+        },
+        "stencil": {
+          "path": "./icons/file_type_stencil.svg"
+        },
+        "stencil-html": {
+          "path": "./icons/file_type_stencil.svg"
+        },
+        "stylable": {
+          "path": "./icons/file_type_stylable.svg"
+        },
+        "source.css.styled": {
+          "path": "./icons/file_type_styled.svg"
+        },
+        "stylus": {
+          "path": "./icons/file_type_stylus.svg"
+        },
+        "svelte": {
+          "path": "./icons/file_type_svelte.svg"
+        },
+        "svg": {
+          "path": "./icons/file_type_svg.svg"
+        },
+        "Swagger": {
+          "path": "./icons/file_type_swagger.svg"
+        },
+        "swagger": {
+          "path": "./icons/file_type_swagger.svg"
+        },
+        "swift": {
+          "path": "./icons/file_type_swift.svg"
+        },
+        "swig": {
+          "path": "./icons/file_type_swig.svg"
+        },
+        "systemd-conf": {
+          "path": "./icons/file_type_systemd.svg"
+        },
+        "systemd-unit-file": {
+          "path": "./icons/file_type_systemd.svg"
+        },
+        "systemverilog": {
+          "path": "./icons/file_type_systemverilog.svg"
+        },
+        "t4": {
+          "path": "./icons/file_type_t4tt.svg"
+        },
+        "tailwindcss": {
+          "path": "./icons/file_type_tailwind.svg"
+        },
+        "teal": {
+          "path": "./icons/file_type_teal.svg"
+        },
+        "templ": {
+          "path": "./icons/file_type_templ.svg"
+        },
+        "tera": {
+          "path": "./icons/file_type_tera.svg"
+        },
+        "terraform": {
+          "path": "./icons/file_type_terraform.svg"
+        },
+        "tex": {
+          "path": "./icons/file_type_tex.svg"
+        },
+        "latex": {
+          "path": "./icons/file_type_tex.svg"
+        },
+        "bibtex": {
+          "path": "./icons/file_type_tex.svg"
+        },
+        "doctex": {
+          "path": "./icons/file_type_tex.svg"
+        },
+        "csv": {
+          "path": "./icons/file_type_text.svg"
+        },
+        "csv (pipe)": {
+          "path": "./icons/file_type_text.svg"
+        },
+        "csv (semicolon)": {
+          "path": "./icons/file_type_text.svg"
+        },
+        "csv (whitespace)": {
+          "path": "./icons/file_type_text.svg"
+        },
+        "dynamic csv": {
+          "path": "./icons/file_type_text.svg"
+        },
+        "tsv": {
+          "path": "./icons/file_type_text.svg"
+        },
+        "plaintext": {
+          "path": "./icons/file_type_text.svg"
+        },
+        "vim-help": {
+          "path": "./icons/file_type_text.svg"
+        },
+        "textile": {
+          "path": "./icons/file_type_textile.svg"
+        },
+        "tiltfile": {
+          "path": "./icons/file_type_tiltfile.svg"
+        },
+        "toit": {
+          "path": "./icons/file_type_toit.svg"
+        },
+        "toml": {
+          "path": "./icons/file_type_toml.svg"
+        },
+        "tt": {
+          "path": "./icons/file_type_tt.svg"
+        },
+        "ttcn": {
+          "path": "./icons/file_type_ttcn.svg"
+        },
+        "tuc": {
+          "path": "./icons/file_type_tuc.svg"
+        },
+        "twig": {
+          "path": "./icons/file_type_twig.svg"
+        },
+        "typescript": {
+          "path": "./icons/file_type_typescript.svg"
+        },
+        "typoscript": {
+          "path": "./icons/file_type_typo3.svg"
+        },
+        "uiua": {
+          "path": "./icons/file_type_uiua.svg"
+        },
+        "unison": {
+          "path": "./icons/file_type_unison.svg"
+        },
+        "vb": {
+          "path": "./icons/file_type_vb.svg"
+        },
+        "vba": {
+          "path": "./icons/file_type_vba.svg"
+        },
+        "velocity": {
+          "path": "./icons/file_type_velocity.svg"
+        },
+        "vento": {
+          "path": "./icons/file_type_vento.svg"
+        },
+        "verilog": {
+          "path": "./icons/file_type_verilog.svg"
+        },
+        "vhdl": {
+          "path": "./icons/file_type_vhdl.svg"
+        },
+        "viml": {
+          "path": "./icons/file_type_vim.svg"
+        },
+        "vim-snippet": {
+          "path": "./icons/file_type_vim.svg"
+        },
+        "vitest-snapshot": {
+          "path": "./icons/file_type_vitest.svg"
+        },
+        "v": {
+          "path": "./icons/file_type_vlang.svg"
+        },
+        "volt": {
+          "path": "./icons/file_type_volt.svg"
+        },
+        "snippets": {
+          "path": "./icons/file_type_vscode.svg"
+        },
+        "vue": {
+          "path": "./icons/file_type_vue.svg"
+        },
+        "vyper": {
+          "path": "./icons/file_type_vyper.svg"
+        },
+        "wasm": {
+          "path": "./icons/file_type_wasm.svg"
+        },
+        "wat": {
+          "path": "./icons/file_type_wasm.svg"
+        },
+        "wenyan": {
+          "path": "./icons/file_type_wenyan.svg"
+        },
+        "wgsl": {
+          "path": "./icons/file_type_wgsl.svg"
+        },
+        "wikitext": {
+          "path": "./icons/file_type_wikitext.svg"
+        },
+        "wai": {
+          "path": "./icons/file_type_wit.svg"
+        },
+        "wolfram": {
+          "path": "./icons/file_type_wolfram.svg"
+        },
+        "wurstlang": {
+          "path": "./icons/file_type_wurst.svg"
+        },
+        "wurst": {
+          "path": "./icons/file_type_wurst.svg"
+        },
+        "xmake": {
+          "path": "./icons/file_type_xmake.svg"
+        },
+        "xml": {
+          "path": "./icons/file_type_xml.svg"
+        },
+        "xcompose": {
+          "path": "./icons/file_type_xorg.svg"
+        },
+        "xquery": {
+          "path": "./icons/file_type_xquery.svg"
+        },
+        "xsl": {
+          "path": "./icons/file_type_xsl.svg"
+        },
+        "xslt": {
+          "path": "./icons/file_type_xsl.svg"
+        },
+        "yacc": {
+          "path": "./icons/file_type_yacc.svg"
+        },
+        "yaml": {
+          "path": "./icons/file_type_yaml.svg"
+        },
+        "yaml-tmlanguage": {
+          "path": "./icons/file_type_yaml.svg"
+        },
+        "spring-boot-properties-yaml": {
+          "path": "./icons/file_type_yaml.svg"
+        },
+        "yang": {
+          "path": "./icons/file_type_yang.svg"
+        },
+        "yarnlock": {
+          "path": "./icons/file_type_yarn.svg"
+        },
+        "zig": {
+          "path": "./icons/file_type_zig.svg"
+        },
+        "zip": {
+          "path": "./icons/file_type_zip.svg"
         }
       },
       "directory_icons": {
@@ -10581,6 +12036,1461 @@
           "path": "./icons/file_type_yeoman.svg"
         },
         "_f_zip": {
+          "path": "./icons/file_type_zip.svg"
+        },
+        "actionscript": {
+          "path": "./icons/file_type_actionscript.svg"
+        },
+        "ada": {
+          "path": "./icons/file_type_light_ada.svg"
+        },
+        "advpl": {
+          "path": "./icons/file_type_advpl.svg"
+        },
+        "affectscript": {
+          "path": "./icons/file_type_affectscript.svg"
+        },
+        "agda": {
+          "path": "./icons/file_type_light_agda.svg"
+        },
+        "lagda-md": {
+          "path": "./icons/file_type_light_agda.svg"
+        },
+        "lagda-rst": {
+          "path": "./icons/file_type_light_agda.svg"
+        },
+        "lagda-tex": {
+          "path": "./icons/file_type_light_agda.svg"
+        },
+        "al": {
+          "path": "./icons/file_type_al.svg"
+        },
+        "alloy": {
+          "path": "./icons/file_type_alloy.svg"
+        },
+        "ansible": {
+          "path": "./icons/file_type_ansible.svg"
+        },
+        "antlr": {
+          "path": "./icons/file_type_antlr.svg"
+        },
+        "anyscript": {
+          "path": "./icons/file_type_anyscript.svg"
+        },
+        "apacheconf": {
+          "path": "./icons/file_type_apache.svg"
+        },
+        "apex": {
+          "path": "./icons/file_type_apex.svg"
+        },
+        "apiblueprint": {
+          "path": "./icons/file_type_apib.svg"
+        },
+        "apl": {
+          "path": "./icons/file_type_light_apl.svg"
+        },
+        "applescript": {
+          "path": "./icons/file_type_applescript.svg"
+        },
+        "asciidoc": {
+          "path": "./icons/file_type_asciidoc.svg"
+        },
+        "asp": {
+          "path": "./icons/file_type_asp.svg"
+        },
+        "asp (html)": {
+          "path": "./icons/file_type_asp.svg"
+        },
+        "arm": {
+          "path": "./icons/file_type_assembly.svg"
+        },
+        "asm": {
+          "path": "./icons/file_type_assembly.svg"
+        },
+        "asm-intel-x86-generic": {
+          "path": "./icons/file_type_assembly.svg"
+        },
+        "platformio-debug.asm": {
+          "path": "./icons/file_type_platformio.svg"
+        },
+        "asm-collection": {
+          "path": "./icons/file_type_assembly.svg"
+        },
+        "astro": {
+          "path": "./icons/file_type_light_astro.svg"
+        },
+        "ats": {
+          "path": "./icons/file_type_ats.svg"
+        },
+        "ahk": {
+          "path": "./icons/file_type_autohotkey.svg"
+        },
+        "autoit": {
+          "path": "./icons/file_type_autoit.svg"
+        },
+        "avro": {
+          "path": "./icons/file_type_avro.svg"
+        },
+        "azcli": {
+          "path": "./icons/file_type_azure.svg"
+        },
+        "azure-pipelines": {
+          "path": "./icons/file_type_azurepipelines.svg"
+        },
+        "ballerina": {
+          "path": "./icons/file_type_ballerina.svg"
+        },
+        "bat": {
+          "path": "./icons/file_type_bat.svg"
+        },
+        "bats": {
+          "path": "./icons/file_type_bats.svg"
+        },
+        "bazel": {
+          "path": "./icons/file_type_bazel.svg"
+        },
+        "bazelrc": {
+          "path": "./icons/file_type_bazel.svg"
+        },
+        "starlark": {
+          "path": "./icons/file_type_bazel.svg"
+        },
+        "befunge": {
+          "path": "./icons/file_type_befunge.svg"
+        },
+        "befunge98": {
+          "path": "./icons/file_type_befunge.svg"
+        },
+        "bicep": {
+          "path": "./icons/file_type_bicep.svg"
+        },
+        "biml": {
+          "path": "./icons/file_type_biml.svg"
+        },
+        "code-text-binary": {
+          "path": "./icons/file_type_binary.svg"
+        },
+        "biome_syntax_tree": {
+          "path": "./icons/file_type_biome.svg"
+        },
+        "blade": {
+          "path": "./icons/file_type_blade.svg"
+        },
+        "laravel-blade": {
+          "path": "./icons/file_type_blade.svg"
+        },
+        "blitzbasic": {
+          "path": "./icons/file_type_blitzbasic.svg"
+        },
+        "bolt": {
+          "path": "./icons/file_type_bolt.svg"
+        },
+        "bosque": {
+          "path": "./icons/file_type_bosque.svg"
+        },
+        "browserslist": {
+          "path": "./icons/file_type_browserslist.svg"
+        },
+        "bruno": {
+          "path": "./icons/file_type_bruno.svg"
+        },
+        "buf": {
+          "path": "./icons/file_type_buf.svg"
+        },
+        "buf-gen": {
+          "path": "./icons/file_type_buf.svg"
+        },
+        "bun.lockb": {
+          "path": "./icons/file_type_bun.svg"
+        },
+        "c": {
+          "path": "./icons/file_type_c.svg"
+        },
+        "c3": {
+          "path": "./icons/file_type_c3.svg"
+        },
+        "c-al": {
+          "path": "./icons/file_type_c_al.svg"
+        },
+        "cabal": {
+          "path": "./icons/file_type_cabal.svg"
+        },
+        "caddyfile": {
+          "path": "./icons/file_type_caddy.svg"
+        },
+        "capnp": {
+          "path": "./icons/file_type_capnp.svg"
+        },
+        "capnproto": {
+          "path": "./icons/file_type_capnp.svg"
+        },
+        "casc": {
+          "path": "./icons/file_type_casc.svg"
+        },
+        "cddl": {
+          "path": "./icons/file_type_cddl.svg"
+        },
+        "ceylon": {
+          "path": "./icons/file_type_ceylon.svg"
+        },
+        "cfml": {
+          "path": "./icons/file_type_cf.svg"
+        },
+        "lang-cfml": {
+          "path": "./icons/file_type_cf.svg"
+        },
+        "cfc": {
+          "path": "./icons/file_type_cfc.svg"
+        },
+        "cfmhtml": {
+          "path": "./icons/file_type_cfm.svg"
+        },
+        "cookbook": {
+          "path": "./icons/file_type_chef_cookbook.svg"
+        },
+        "clojure": {
+          "path": "./icons/file_type_clojure.svg"
+        },
+        "clojurescript": {
+          "path": "./icons/file_type_clojurescript.svg"
+        },
+        "manifest-yaml": {
+          "path": "./icons/file_type_light_cloudfoundry.svg"
+        },
+        "cmake": {
+          "path": "./icons/file_type_cmake.svg"
+        },
+        "cmake-cache": {
+          "path": "./icons/file_type_cmake.svg"
+        },
+        "cobol": {
+          "path": "./icons/file_type_cobol.svg"
+        },
+        "ql": {
+          "path": "./icons/file_type_codeql.svg"
+        },
+        "coffeescript": {
+          "path": "./icons/file_type_coffeescript.svg"
+        },
+        "java-properties": {
+          "path": "./icons/file_type_light_config.svg"
+        },
+        "properties": {
+          "path": "./icons/file_type_light_config.svg"
+        },
+        "spring-boot-properties": {
+          "path": "./icons/file_type_light_config.svg"
+        },
+        "confluence": {
+          "path": "./icons/file_type_confluence.svg"
+        },
+        "instructions": {
+          "path": "./icons/file_type_light_copilot.svg"
+        },
+        "prompt": {
+          "path": "./icons/file_type_light_copilot.svg"
+        },
+        "cpp": {
+          "path": "./icons/file_type_cpp.svg"
+        },
+        "crystal": {
+          "path": "./icons/file_type_light_crystal.svg"
+        },
+        "csharp": {
+          "path": "./icons/file_type_csharp.svg"
+        },
+        "css": {
+          "path": "./icons/file_type_css.svg"
+        },
+        "cucumber": {
+          "path": "./icons/file_type_cucumber.svg"
+        },
+        "feature": {
+          "path": "./icons/file_type_cucumber.svg"
+        },
+        "cuda": {
+          "path": "./icons/file_type_cuda.svg"
+        },
+        "cuda-cpp": {
+          "path": "./icons/file_type_cuda.svg"
+        },
+        "cython": {
+          "path": "./icons/file_type_cython.svg"
+        },
+        "dal": {
+          "path": "./icons/file_type_dal.svg"
+        },
+        "dart": {
+          "path": "./icons/file_type_dartlang.svg"
+        },
+        "debian-changelog": {
+          "path": "./icons/file_type_debian.svg"
+        },
+        "debian-control": {
+          "path": "./icons/file_type_debian.svg"
+        },
+        "debian-copyright": {
+          "path": "./icons/file_type_debian.svg"
+        },
+        "debian-upstream-metadata": {
+          "path": "./icons/file_type_debian.svg"
+        },
+        "pascal": {
+          "path": "./icons/file_type_delphi.svg"
+        },
+        "objectpascal": {
+          "path": "./icons/file_type_delphi.svg"
+        },
+        "dhall": {
+          "path": "./icons/file_type_light_dhall.svg"
+        },
+        "diff": {
+          "path": "./icons/file_type_diff.svg"
+        },
+        "django-html": {
+          "path": "./icons/file_type_django.svg"
+        },
+        "django-txt": {
+          "path": "./icons/file_type_django.svg"
+        },
+        "d": {
+          "path": "./icons/file_type_dlang.svg"
+        },
+        "dscript": {
+          "path": "./icons/file_type_dlang.svg"
+        },
+        "dml": {
+          "path": "./icons/file_type_dlang.svg"
+        },
+        "diet": {
+          "path": "./icons/file_type_dlang.svg"
+        },
+        "dockerbake": {
+          "path": "./icons/file_type_docker.svg"
+        },
+        "dockercompose": {
+          "path": "./icons/file_type_docker.svg"
+        },
+        "dockerfile": {
+          "path": "./icons/file_type_docker.svg"
+        },
+        "dotenv": {
+          "path": "./icons/file_type_dotenv.svg"
+        },
+        "env": {
+          "path": "./icons/file_type_dotenv.svg"
+        },
+        "dotjs": {
+          "path": "./icons/file_type_dotjs.svg"
+        },
+        "doxygen": {
+          "path": "./icons/file_type_doxygen.svg"
+        },
+        "drawio": {
+          "path": "./icons/file_type_drawio.svg"
+        },
+        "drools": {
+          "path": "./icons/file_type_drools.svg"
+        },
+        "dtd": {
+          "path": "./icons/file_type_dtd.svg"
+        },
+        "dustjs": {
+          "path": "./icons/file_type_dustjs.svg"
+        },
+        "dylan": {
+          "path": "./icons/file_type_dylan.svg"
+        },
+        "dylan-lid": {
+          "path": "./icons/file_type_dylan.svg"
+        },
+        "earthfile": {
+          "path": "./icons/file_type_earthly.svg"
+        },
+        "edge": {
+          "path": "./icons/file_type_edge.svg"
+        },
+        "editorconfig": {
+          "path": "./icons/file_type_editorconfig.svg"
+        },
+        "eex": {
+          "path": "./icons/file_type_eex.svg"
+        },
+        "html-eex": {
+          "path": "./icons/file_type_eex.svg"
+        },
+        "es": {
+          "path": "./icons/file_type_elastic.svg"
+        },
+        "elixir": {
+          "path": "./icons/file_type_elixir.svg"
+        },
+        "elm": {
+          "path": "./icons/file_type_elm.svg"
+        },
+        "erb": {
+          "path": "./icons/file_type_erb.svg"
+        },
+        "html.erb": {
+          "path": "./icons/file_type_erb.svg"
+        },
+        "erlang": {
+          "path": "./icons/file_type_erlang.svg"
+        },
+        "esphome": {
+          "path": "./icons/file_type_light_esphome.svg"
+        },
+        "excel": {
+          "path": "./icons/file_type_excel.svg"
+        },
+        "falcon": {
+          "path": "./icons/file_type_falcon.svg"
+        },
+        "fql": {
+          "path": "./icons/file_type_fauna.svg"
+        },
+        "fortran": {
+          "path": "./icons/file_type_fortran.svg"
+        },
+        "fortran-modern": {
+          "path": "./icons/file_type_fortran.svg"
+        },
+        "FortranFreeForm": {
+          "path": "./icons/file_type_fortran.svg"
+        },
+        "FortranFixedForm": {
+          "path": "./icons/file_type_fortran.svg"
+        },
+        "fortran_fixed-form": {
+          "path": "./icons/file_type_fortran.svg"
+        },
+        "ftl": {
+          "path": "./icons/file_type_freemarker.svg"
+        },
+        "fsharp": {
+          "path": "./icons/file_type_fsharp.svg"
+        },
+        "fthtml": {
+          "path": "./icons/file_type_fthtml.svg"
+        },
+        "galen": {
+          "path": "./icons/file_type_galen.svg"
+        },
+        "gml-gms": {
+          "path": "./icons/file_type_gamemaker.svg"
+        },
+        "gml-gms2": {
+          "path": "./icons/file_type_light_gamemaker2.svg"
+        },
+        "gml-gm81": {
+          "path": "./icons/file_type_gamemaker81.svg"
+        },
+        "gcode": {
+          "path": "./icons/file_type_gcode.svg"
+        },
+        "gdscript": {
+          "path": "./icons/file_type_gdscript.svg"
+        },
+        "genstat": {
+          "path": "./icons/file_type_genstat.svg"
+        },
+        "git-commit": {
+          "path": "./icons/file_type_git.svg"
+        },
+        "git-rebase": {
+          "path": "./icons/file_type_git.svg"
+        },
+        "ignore": {
+          "path": "./icons/file_type_git.svg"
+        },
+        "gleam": {
+          "path": "./icons/file_type_gleam.svg"
+        },
+        "glimmer-js": {
+          "path": "./icons/file_type_glimmer.svg"
+        },
+        "glimmer-ts": {
+          "path": "./icons/file_type_glimmer.svg"
+        },
+        "glsl": {
+          "path": "./icons/file_type_glsl.svg"
+        },
+        "glyphs": {
+          "path": "./icons/file_type_glyphs.svg"
+        },
+        "automake": {
+          "path": "./icons/file_type_gnu.svg"
+        },
+        "m4": {
+          "path": "./icons/file_type_gnu.svg"
+        },
+        "makefile": {
+          "path": "./icons/file_type_gnu.svg"
+        },
+        "makefile2": {
+          "path": "./icons/file_type_gnu.svg"
+        },
+        "gnuplot": {
+          "path": "./icons/file_type_gnuplot.svg"
+        },
+        "go": {
+          "path": "./icons/file_type_go.svg"
+        },
+        "go.mod": {
+          "path": "./icons/file_type_go_package.svg"
+        },
+        "go.work": {
+          "path": "./icons/file_type_go_work.svg"
+        },
+        "goctl": {
+          "path": "./icons/file_type_goctl.svg"
+        },
+        "gradle-kotlin-dsl": {
+          "path": "./icons/file_type_light_gradle.svg"
+        },
+        "grain": {
+          "path": "./icons/file_type_grain.svg"
+        },
+        "graphql": {
+          "path": "./icons/file_type_graphql.svg"
+        },
+        "dot": {
+          "path": "./icons/file_type_graphviz.svg"
+        },
+        "groovy": {
+          "path": "./icons/file_type_groovy.svg"
+        },
+        "haml": {
+          "path": "./icons/file_type_haml.svg"
+        },
+        "handlebars": {
+          "path": "./icons/file_type_handlebars.svg"
+        },
+        "harbour": {
+          "path": "./icons/file_type_harbour.svg"
+        },
+        "hcl": {
+          "path": "./icons/file_type_light_hashicorp.svg"
+        },
+        "haskell": {
+          "path": "./icons/file_type_haskell.svg"
+        },
+        "literate haskell": {
+          "path": "./icons/file_type_haskell.svg"
+        },
+        "haxe": {
+          "path": "./icons/file_type_haxe.svg"
+        },
+        "hxml": {
+          "path": "./icons/file_type_haxe.svg"
+        },
+        "Haxe AST dump": {
+          "path": "./icons/file_type_haxe.svg"
+        },
+        "helm": {
+          "path": "./icons/file_type_helm.svg"
+        },
+        "hjson": {
+          "path": "./icons/file_type_light_hjson.svg"
+        },
+        "hlsl": {
+          "path": "./icons/file_type_hlsl.svg"
+        },
+        "home-assistant": {
+          "path": "./icons/file_type_homeassistant.svg"
+        },
+        "hosts": {
+          "path": "./icons/file_type_host.svg"
+        },
+        "html": {
+          "path": "./icons/file_type_html.svg"
+        },
+        "http": {
+          "path": "./icons/file_type_http.svg"
+        },
+        "hunspell.aff": {
+          "path": "./icons/file_type_hunspell.svg"
+        },
+        "hunspell.dic": {
+          "path": "./icons/file_type_hunspell.svg"
+        },
+        "hy": {
+          "path": "./icons/file_type_hy.svg"
+        },
+        "hypr": {
+          "path": "./icons/file_type_hypr.svg"
+        },
+        "icl": {
+          "path": "./icons/file_type_icl.svg"
+        },
+        "imba": {
+          "path": "./icons/file_type_imba.svg"
+        },
+        "4GL": {
+          "path": "./icons/file_type_informix.svg"
+        },
+        "ini": {
+          "path": "./icons/file_type_light_ini.svg"
+        },
+        "ink": {
+          "path": "./icons/file_type_ink.svg"
+        },
+        "innosetup": {
+          "path": "./icons/file_type_innosetup.svg"
+        },
+        "io": {
+          "path": "./icons/file_type_light_io.svg"
+        },
+        "iodine": {
+          "path": "./icons/file_type_iodine.svg"
+        },
+        "janet": {
+          "path": "./icons/file_type_janet.svg"
+        },
+        "java": {
+          "path": "./icons/file_type_java.svg"
+        },
+        "jekyll": {
+          "path": "./icons/file_type_jekyll.svg"
+        },
+        "jenkins": {
+          "path": "./icons/file_type_jenkins.svg"
+        },
+        "declarative": {
+          "path": "./icons/file_type_jenkins.svg"
+        },
+        "jenkinsfile": {
+          "path": "./icons/file_type_jenkins.svg"
+        },
+        "jest-snapshot": {
+          "path": "./icons/file_type_jest_snapshot.svg"
+        },
+        "jinja": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-java": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-html": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-xml": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-css": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-json": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-md": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-py": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-rb": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-js": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-yaml": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-toml": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-latex": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-lua": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-properties": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-shell": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-dockerfile": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-sql": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-terraform": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-nginx": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-groovy": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-systemd": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "jinja-cpp": {
+          "path": "./icons/file_type_jinja.svg"
+        },
+        "javascript": {
+          "path": "./icons/file_type_light_js.svg"
+        },
+        "json": {
+          "path": "./icons/file_type_light_json.svg"
+        },
+        "json-tmlanguage": {
+          "path": "./icons/file_type_light_json.svg"
+        },
+        "jsonc": {
+          "path": "./icons/file_type_light_json.svg"
+        },
+        "jsonl": {
+          "path": "./icons/file_type_light_json.svg"
+        },
+        "json5": {
+          "path": "./icons/file_type_light_json5.svg"
+        },
+        "jsonnet": {
+          "path": "./icons/file_type_jsonnet.svg"
+        },
+        "julia": {
+          "path": "./icons/file_type_julia.svg"
+        },
+        "juliamarkdown": {
+          "path": "./icons/file_type_julia.svg"
+        },
+        "just": {
+          "path": "./icons/file_type_just.svg"
+        },
+        "k": {
+          "path": "./icons/file_type_k.svg"
+        },
+        "kivy": {
+          "path": "./icons/file_type_kivy.svg"
+        },
+        "kos": {
+          "path": "./icons/file_type_kos.svg"
+        },
+        "kotlin": {
+          "path": "./icons/file_type_kotlin.svg"
+        },
+        "kotlinscript": {
+          "path": "./icons/file_type_kotlin.svg"
+        },
+        "kusto": {
+          "path": "./icons/file_type_kusto.svg"
+        },
+        "lark": {
+          "path": "./icons/file_type_light_lark.svg"
+        },
+        "latino": {
+          "path": "./icons/file_type_latino.svg"
+        },
+        "lean4": {
+          "path": "./icons/file_type_light_lean.svg"
+        },
+        "lean4markdown": {
+          "path": "./icons/file_type_light_lean.svg"
+        },
+        "less": {
+          "path": "./icons/file_type_less.svg"
+        },
+        "lex": {
+          "path": "./icons/file_type_lex.svg"
+        },
+        "lilypond": {
+          "path": "./icons/file_type_lilypond.svg"
+        },
+        "lisp": {
+          "path": "./icons/file_type_lisp.svg"
+        },
+        "autolisp": {
+          "path": "./icons/file_type_lisp.svg"
+        },
+        "autolispdcl": {
+          "path": "./icons/file_type_lisp.svg"
+        },
+        "log": {
+          "path": "./icons/file_type_log.svg"
+        },
+        "lolcode": {
+          "path": "./icons/file_type_lolcode.svg"
+        },
+        "lsl": {
+          "path": "./icons/file_type_lsl.svg"
+        },
+        "lua": {
+          "path": "./icons/file_type_lua.svg"
+        },
+        "markdown": {
+          "path": "./icons/file_type_markdown.svg"
+        },
+        "marko": {
+          "path": "./icons/file_type_marko.svg"
+        },
+        "matlab": {
+          "path": "./icons/file_type_matlab.svg"
+        },
+        "maxscript": {
+          "path": "./icons/file_type_maxscript.svg"
+        },
+        "mel": {
+          "path": "./icons/file_type_maya.svg"
+        },
+        "mdx": {
+          "path": "./icons/file_type_light_mdx.svg"
+        },
+        "mediawiki": {
+          "path": "./icons/file_type_mediawiki.svg"
+        },
+        "mermaid": {
+          "path": "./icons/file_type_mermaid.svg"
+        },
+        "meson": {
+          "path": "./icons/file_type_meson.svg"
+        },
+        "metal": {
+          "path": "./icons/file_type_metal.svg"
+        },
+        "bc-mcfunction": {
+          "path": "./icons/file_type_minecraft.svg"
+        },
+        "bc-minecraft-language": {
+          "path": "./icons/file_type_minecraft.svg"
+        },
+        "bc-minecraft-molang": {
+          "path": "./icons/file_type_minecraft.svg"
+        },
+        "bc-minecraft-project": {
+          "path": "./icons/file_type_minecraft.svg"
+        },
+        "mcdoc": {
+          "path": "./icons/file_type_minecraft.svg"
+        },
+        "mcfunction": {
+          "path": "./icons/file_type_minecraft.svg"
+        },
+        "mcmeta": {
+          "path": "./icons/file_type_minecraft.svg"
+        },
+        "mcscript": {
+          "path": "./icons/file_type_minecraft.svg"
+        },
+        "minecraft-lang": {
+          "path": "./icons/file_type_minecraft.svg"
+        },
+        "options-txt": {
+          "path": "./icons/file_type_minecraft.svg"
+        },
+        "snbt": {
+          "path": "./icons/file_type_minecraft.svg"
+        },
+        "mv": {
+          "path": "./icons/file_type_mivascript.svg"
+        },
+        "mjml": {
+          "path": "./icons/file_type_mjml.svg"
+        },
+        "powerquery": {
+          "path": "./icons/file_type_light_mlang.svg"
+        },
+        "mojo": {
+          "path": "./icons/file_type_mojo.svg"
+        },
+        "mojolicious": {
+          "path": "./icons/file_type_mojolicious.svg"
+        },
+        "mongo": {
+          "path": "./icons/file_type_mongo.svg"
+        },
+        "mson": {
+          "path": "./icons/file_type_mson.svg"
+        },
+        "mvt": {
+          "path": "./icons/file_type_mvt.svg"
+        },
+        "mvtcss": {
+          "path": "./icons/file_type_mvtcss.svg"
+        },
+        "mvtjs": {
+          "path": "./icons/file_type_mvtjs.svg"
+        },
+        "nearley": {
+          "path": "./icons/file_type_nearly.svg"
+        },
+        "cypher": {
+          "path": "./icons/file_type_light_neo4j.svg"
+        },
+        "nginx": {
+          "path": "./icons/file_type_nginx.svg"
+        },
+        "nim": {
+          "path": "./icons/file_type_nim.svg"
+        },
+        "nimble": {
+          "path": "./icons/file_type_nimble.svg"
+        },
+        "nix": {
+          "path": "./icons/file_type_nix.svg"
+        },
+        "nsis": {
+          "path": "./icons/file_type_nsi.svg"
+        },
+        "nfl": {
+          "path": "./icons/file_type_nsi.svg"
+        },
+        "nsl": {
+          "path": "./icons/file_type_nsi.svg"
+        },
+        "bridlensis": {
+          "path": "./icons/file_type_nsi.svg"
+        },
+        "nunjucks": {
+          "path": "./icons/file_type_nunjucks.svg"
+        },
+        "objective-c": {
+          "path": "./icons/file_type_objectivec.svg"
+        },
+        "objective-cpp": {
+          "path": "./icons/file_type_objectivecpp.svg"
+        },
+        "ocaml": {
+          "path": "./icons/file_type_ocaml.svg"
+        },
+        "ocamllex": {
+          "path": "./icons/file_type_ocaml.svg"
+        },
+        "menhir": {
+          "path": "./icons/file_type_ocaml.svg"
+        },
+        "ogone": {
+          "path": "./icons/file_type_ogone.svg"
+        },
+        "openhab": {
+          "path": "./icons/file_type_light_openHAB.svg"
+        },
+        "scad": {
+          "path": "./icons/file_type_openscad.svg"
+        },
+        "org": {
+          "path": "./icons/file_type_org.svg"
+        },
+        "pddl": {
+          "path": "./icons/file_type_pddl.svg"
+        },
+        "happenings": {
+          "path": "./icons/file_type_pddl_happenings.svg"
+        },
+        "plan": {
+          "path": "./icons/file_type_pddl_plan.svg"
+        },
+        "perl": {
+          "path": "./icons/file_type_perl.svg"
+        },
+        "perl6": {
+          "path": "./icons/file_type_perl6.svg"
+        },
+        "pgsql": {
+          "path": "./icons/file_type_pgsql.svg"
+        },
+        "php": {
+          "path": "./icons/file_type_php.svg"
+        },
+        "pine": {
+          "path": "./icons/file_type_pine.svg"
+        },
+        "pinescript": {
+          "path": "./icons/file_type_pine.svg"
+        },
+        "pip-requirements": {
+          "path": "./icons/file_type_pip.svg"
+        },
+        "platformio-debug.disassembly": {
+          "path": "./icons/file_type_platformio.svg"
+        },
+        "platformio-debug.memoryview": {
+          "path": "./icons/file_type_platformio.svg"
+        },
+        "plsql": {
+          "path": "./icons/file_type_plsql.svg"
+        },
+        "oracle": {
+          "path": "./icons/file_type_plsql.svg"
+        },
+        "oraclesql": {
+          "path": "./icons/file_type_plsql.svg"
+        },
+        "oracle-sql": {
+          "path": "./icons/file_type_plsql.svg"
+        },
+        "po": {
+          "path": "./icons/file_type_poedit.svg"
+        },
+        "polymer": {
+          "path": "./icons/file_type_polymer.svg"
+        },
+        "pony": {
+          "path": "./icons/file_type_pony.svg"
+        },
+        "postcss": {
+          "path": "./icons/file_type_postcss.svg"
+        },
+        "powershell": {
+          "path": "./icons/file_type_powershell.svg"
+        },
+        "prisma": {
+          "path": "./icons/file_type_light_prisma.svg"
+        },
+        "pde": {
+          "path": "./icons/file_type_processinglang.svg"
+        },
+        "abl": {
+          "path": "./icons/file_type_progress.svg"
+        },
+        "prolog": {
+          "path": "./icons/file_type_prolog.svg"
+        },
+        "prometheus": {
+          "path": "./icons/file_type_prometheus.svg"
+        },
+        "proto3": {
+          "path": "./icons/file_type_protobuf.svg"
+        },
+        "proto": {
+          "path": "./icons/file_type_protobuf.svg"
+        },
+        "prototext": {
+          "path": "./icons/file_type_protobuf.svg"
+        },
+        "jade": {
+          "path": "./icons/file_type_pug.svg"
+        },
+        "puppet": {
+          "path": "./icons/file_type_puppet.svg"
+        },
+        "purescript": {
+          "path": "./icons/file_type_light_purescript.svg"
+        },
+        "pyret": {
+          "path": "./icons/file_type_pyret.svg"
+        },
+        "pyscript": {
+          "path": "./icons/file_type_pyscript.svg"
+        },
+        "python": {
+          "path": "./icons/file_type_python.svg"
+        },
+        "pythowo": {
+          "path": "./icons/file_type_pythowo.svg"
+        },
+        "qlik": {
+          "path": "./icons/file_type_qlikview.svg"
+        },
+        "qml": {
+          "path": "./icons/file_type_qml.svg"
+        },
+        "qsharp": {
+          "path": "./icons/file_type_qsharp.svg"
+        },
+        "r": {
+          "path": "./icons/file_type_r.svg"
+        },
+        "ra_syntax_tree": {
+          "path": "./icons/file_type_ra_syntax_tree.svg"
+        },
+        "racket": {
+          "path": "./icons/file_type_racket.svg"
+        },
+        "raku": {
+          "path": "./icons/file_type_light_raku.svg"
+        },
+        "raml": {
+          "path": "./icons/file_type_raml.svg"
+        },
+        "razor": {
+          "path": "./icons/file_type_razor.svg"
+        },
+        "aspnetcorerazor": {
+          "path": "./icons/file_type_razor.svg"
+        },
+        "javascriptreact": {
+          "path": "./icons/file_type_reactjs.svg"
+        },
+        "typescriptreact": {
+          "path": "./icons/file_type_reactts.svg"
+        },
+        "reason": {
+          "path": "./icons/file_type_reason.svg"
+        },
+        "red": {
+          "path": "./icons/file_type_red.svg"
+        },
+        "rescript": {
+          "path": "./icons/file_type_rescript.svg"
+        },
+        "restructuredtext": {
+          "path": "./icons/file_type_rest.svg"
+        },
+        "rexx": {
+          "path": "./icons/file_type_rexx.svg"
+        },
+        "riot": {
+          "path": "./icons/file_type_riot.svg"
+        },
+        "rmd": {
+          "path": "./icons/file_type_rmd.svg"
+        },
+        "rnc": {
+          "path": "./icons/file_type_rnc.svg"
+        },
+        "robot": {
+          "path": "./icons/file_type_robotframework.svg"
+        },
+        "ruby": {
+          "path": "./icons/file_type_ruby.svg"
+        },
+        "rust": {
+          "path": "./icons/file_type_light_rust.svg"
+        },
+        "s-lang": {
+          "path": "./icons/file_type_s-lang.svg"
+        },
+        "san": {
+          "path": "./icons/file_type_san.svg"
+        },
+        "SAS": {
+          "path": "./icons/file_type_sas.svg"
+        },
+        "sass": {
+          "path": "./icons/file_type_sass.svg"
+        },
+        "sass.hover": {
+          "path": "./icons/file_type_sass.svg"
+        },
+        "sbt": {
+          "path": "./icons/file_type_sbt.svg"
+        },
+        "scala": {
+          "path": "./icons/file_type_scala.svg"
+        },
+        "scilab": {
+          "path": "./icons/file_type_scilab.svg"
+        },
+        "vbscript": {
+          "path": "./icons/file_type_script.svg"
+        },
+        "scss": {
+          "path": "./icons/file_type_scss.svg"
+        },
+        "sdl": {
+          "path": "./icons/file_type_sdlang.svg"
+        },
+        "search-result": {
+          "path": "./icons/file_type_search_result.svg"
+        },
+        "shaderlab": {
+          "path": "./icons/file_type_light_shaderlab.svg"
+        },
+        "shellscript": {
+          "path": "./icons/file_type_shell.svg"
+        },
+        "silverstripe": {
+          "path": "./icons/file_type_silverstripe.svg"
+        },
+        "sino": {
+          "path": "./icons/file_type_sino.svg"
+        },
+        "eskip": {
+          "path": "./icons/file_type_skipper.svg"
+        },
+        "slang": {
+          "path": "./icons/file_type_slang.svg"
+        },
+        "slice": {
+          "path": "./icons/file_type_slice.svg"
+        },
+        "slim": {
+          "path": "./icons/file_type_slim.svg"
+        },
+        "slint": {
+          "path": "./icons/file_type_slint.svg"
+        },
+        "sln": {
+          "path": "./icons/file_type_sln.svg"
+        },
+        "smarty": {
+          "path": "./icons/file_type_smarty.svg"
+        },
+        "snakemake": {
+          "path": "./icons/file_type_snakemake.svg"
+        },
+        "snort": {
+          "path": "./icons/file_type_snort.svg"
+        },
+        "solidity": {
+          "path": "./icons/file_type_light_solidity.svg"
+        },
+        "sparql": {
+          "path": "./icons/file_type_sparql.svg"
+        },
+        "sqf": {
+          "path": "./icons/file_type_sqf.svg"
+        },
+        "sql": {
+          "path": "./icons/file_type_sql.svg"
+        },
+        "squirrel": {
+          "path": "./icons/file_type_squirrel.svg"
+        },
+        "stan": {
+          "path": "./icons/file_type_stan.svg"
+        },
+        "stata": {
+          "path": "./icons/file_type_stata.svg"
+        },
+        "stencil": {
+          "path": "./icons/file_type_stencil.svg"
+        },
+        "stencil-html": {
+          "path": "./icons/file_type_stencil.svg"
+        },
+        "stylable": {
+          "path": "./icons/file_type_stylable.svg"
+        },
+        "source.css.styled": {
+          "path": "./icons/file_type_styled.svg"
+        },
+        "stylus": {
+          "path": "./icons/file_type_light_stylus.svg"
+        },
+        "svelte": {
+          "path": "./icons/file_type_svelte.svg"
+        },
+        "svg": {
+          "path": "./icons/file_type_svg.svg"
+        },
+        "Swagger": {
+          "path": "./icons/file_type_swagger.svg"
+        },
+        "swagger": {
+          "path": "./icons/file_type_swagger.svg"
+        },
+        "swift": {
+          "path": "./icons/file_type_swift.svg"
+        },
+        "swig": {
+          "path": "./icons/file_type_swig.svg"
+        },
+        "systemd-conf": {
+          "path": "./icons/file_type_light_systemd.svg"
+        },
+        "systemd-unit-file": {
+          "path": "./icons/file_type_light_systemd.svg"
+        },
+        "systemverilog": {
+          "path": "./icons/file_type_light_systemverilog.svg"
+        },
+        "t4": {
+          "path": "./icons/file_type_t4tt.svg"
+        },
+        "tailwindcss": {
+          "path": "./icons/file_type_tailwind.svg"
+        },
+        "teal": {
+          "path": "./icons/file_type_teal.svg"
+        },
+        "templ": {
+          "path": "./icons/file_type_templ.svg"
+        },
+        "tera": {
+          "path": "./icons/file_type_tera.svg"
+        },
+        "terraform": {
+          "path": "./icons/file_type_terraform.svg"
+        },
+        "tex": {
+          "path": "./icons/file_type_light_tex.svg"
+        },
+        "latex": {
+          "path": "./icons/file_type_light_tex.svg"
+        },
+        "bibtex": {
+          "path": "./icons/file_type_light_tex.svg"
+        },
+        "doctex": {
+          "path": "./icons/file_type_light_tex.svg"
+        },
+        "csv": {
+          "path": "./icons/file_type_text.svg"
+        },
+        "csv (pipe)": {
+          "path": "./icons/file_type_text.svg"
+        },
+        "csv (semicolon)": {
+          "path": "./icons/file_type_text.svg"
+        },
+        "csv (whitespace)": {
+          "path": "./icons/file_type_text.svg"
+        },
+        "dynamic csv": {
+          "path": "./icons/file_type_text.svg"
+        },
+        "tsv": {
+          "path": "./icons/file_type_text.svg"
+        },
+        "plaintext": {
+          "path": "./icons/file_type_text.svg"
+        },
+        "vim-help": {
+          "path": "./icons/file_type_text.svg"
+        },
+        "textile": {
+          "path": "./icons/file_type_textile.svg"
+        },
+        "tiltfile": {
+          "path": "./icons/file_type_tiltfile.svg"
+        },
+        "toit": {
+          "path": "./icons/file_type_light_toit.svg"
+        },
+        "toml": {
+          "path": "./icons/file_type_light_toml.svg"
+        },
+        "tt": {
+          "path": "./icons/file_type_tt.svg"
+        },
+        "ttcn": {
+          "path": "./icons/file_type_ttcn.svg"
+        },
+        "tuc": {
+          "path": "./icons/file_type_tuc.svg"
+        },
+        "twig": {
+          "path": "./icons/file_type_twig.svg"
+        },
+        "typescript": {
+          "path": "./icons/file_type_typescript.svg"
+        },
+        "typoscript": {
+          "path": "./icons/file_type_typo3.svg"
+        },
+        "uiua": {
+          "path": "./icons/file_type_uiua.svg"
+        },
+        "unison": {
+          "path": "./icons/file_type_unison.svg"
+        },
+        "vb": {
+          "path": "./icons/file_type_vb.svg"
+        },
+        "vba": {
+          "path": "./icons/file_type_vba.svg"
+        },
+        "velocity": {
+          "path": "./icons/file_type_velocity.svg"
+        },
+        "vento": {
+          "path": "./icons/file_type_vento.svg"
+        },
+        "verilog": {
+          "path": "./icons/file_type_verilog.svg"
+        },
+        "vhdl": {
+          "path": "./icons/file_type_vhdl.svg"
+        },
+        "viml": {
+          "path": "./icons/file_type_vim.svg"
+        },
+        "vim-snippet": {
+          "path": "./icons/file_type_vim.svg"
+        },
+        "vitest-snapshot": {
+          "path": "./icons/file_type_vitest.svg"
+        },
+        "v": {
+          "path": "./icons/file_type_vlang.svg"
+        },
+        "volt": {
+          "path": "./icons/file_type_volt.svg"
+        },
+        "snippets": {
+          "path": "./icons/file_type_vscode.svg"
+        },
+        "vue": {
+          "path": "./icons/file_type_vue.svg"
+        },
+        "vyper": {
+          "path": "./icons/file_type_vyper.svg"
+        },
+        "wasm": {
+          "path": "./icons/file_type_wasm.svg"
+        },
+        "wat": {
+          "path": "./icons/file_type_wasm.svg"
+        },
+        "wenyan": {
+          "path": "./icons/file_type_wenyan.svg"
+        },
+        "wgsl": {
+          "path": "./icons/file_type_wgsl.svg"
+        },
+        "wikitext": {
+          "path": "./icons/file_type_wikitext.svg"
+        },
+        "wai": {
+          "path": "./icons/file_type_wit.svg"
+        },
+        "wolfram": {
+          "path": "./icons/file_type_wolfram.svg"
+        },
+        "wurstlang": {
+          "path": "./icons/file_type_wurst.svg"
+        },
+        "wurst": {
+          "path": "./icons/file_type_wurst.svg"
+        },
+        "xmake": {
+          "path": "./icons/file_type_xmake.svg"
+        },
+        "xml": {
+          "path": "./icons/file_type_xml.svg"
+        },
+        "xcompose": {
+          "path": "./icons/file_type_light_xorg.svg"
+        },
+        "xquery": {
+          "path": "./icons/file_type_xquery.svg"
+        },
+        "xsl": {
+          "path": "./icons/file_type_xsl.svg"
+        },
+        "xslt": {
+          "path": "./icons/file_type_xsl.svg"
+        },
+        "yacc": {
+          "path": "./icons/file_type_yacc.svg"
+        },
+        "yaml": {
+          "path": "./icons/file_type_light_yaml.svg"
+        },
+        "yaml-tmlanguage": {
+          "path": "./icons/file_type_light_yaml.svg"
+        },
+        "spring-boot-properties-yaml": {
+          "path": "./icons/file_type_light_yaml.svg"
+        },
+        "yang": {
+          "path": "./icons/file_type_yang.svg"
+        },
+        "yarnlock": {
+          "path": "./icons/file_type_yarn.svg"
+        },
+        "zig": {
+          "path": "./icons/file_type_zig.svg"
+        },
+        "zip": {
           "path": "./icons/file_type_zip.svg"
         }
       },
