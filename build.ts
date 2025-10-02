@@ -218,10 +218,12 @@ function convertManifest(vsManifest: VSCodeIconsManifest): ZedIconTheme {
     }
   }
 
+  const fileIconIdSet = new Set<string>()
   // Process file stems (file names)
   if (vsManifest.fileNames) {
     Object.entries(vsManifest.fileNames).forEach(([fileName, iconId]) => {
       darkTheme.file_stems[fileName] = iconId
+      fileIconIdSet.add(iconId)
     })
   }
 
@@ -229,12 +231,13 @@ function convertManifest(vsManifest: VSCodeIconsManifest): ZedIconTheme {
   if (vsManifest.fileExtensions) {
     Object.entries(vsManifest.fileExtensions).forEach(([ext, iconId]) => {
       darkTheme.file_suffixes[ext] = iconId
+      fileIconIdSet.add(iconId)
     })
   }
 
   // Process icon definitions
   Object.entries(vsManifest.iconDefinitions).forEach(([iconId, definition]) => {
-    if (definition.iconPath) {
+    if (fileIconIdSet.has(iconId) && definition.iconPath) {
       const path = normalizeIconPath(definition)
       if (path) {
         darkTheme.file_icons[iconId] = {
@@ -277,10 +280,12 @@ function convertManifest(vsManifest: VSCodeIconsManifest): ZedIconTheme {
       }
     }
 
+    const lightFileIconIdSet = new Set<string>()
     // Process file stems (file names)
     if (light.fileNames) {
       Object.entries(light.fileNames).forEach(([fileName, iconId]) => {
         lightTheme.file_stems[fileName] = iconId
+        lightFileIconIdSet.add(iconId)
       })
     }
 
@@ -288,12 +293,13 @@ function convertManifest(vsManifest: VSCodeIconsManifest): ZedIconTheme {
     if (light.fileExtensions) {
       Object.entries(light.fileExtensions).forEach(([ext, iconId]) => {
         lightTheme.file_suffixes[ext] = iconId
+        lightFileIconIdSet.add(iconId)
       })
     }
 
     // Process icon definitions
     Object.entries(vsManifest.iconDefinitions).forEach(([iconId, definition]) => {
-      if (definition.iconPath) {
+      if (lightFileIconIdSet.has(iconId) && definition.iconPath) {
         const path = normalizeIconPath(definition)
         if (path) {
           lightTheme.file_icons[iconId] = {
