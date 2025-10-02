@@ -1,0 +1,17 @@
+{
+  "prettier.enable": false,
+  "[json]": {
+    "editor.formatOnSave": true,
+    "files.insertFinalNewline": true
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.organizeImports": "never"
+  },
+  "editor.formatOnSave": false,
+  "eslint.useFlatConfig": true,
+  "eslint.validate": [
+    "javascript",
+    "typescript"
+  ]
+}
