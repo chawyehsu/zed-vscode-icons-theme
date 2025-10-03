@@ -6,7 +6,7 @@
 
 ## Preview
 
-![Preview](https://github.com/user-attachments/assets/5a9fac04-b954-42a0-9172-2506254d78f9)
+![Preview](https://github.com/user-attachments/assets/073ae64b-b16e-4dcb-b779-34d95b541fc6)
 
 ## Features
 
