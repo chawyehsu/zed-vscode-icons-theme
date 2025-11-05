@@ -4,6 +4,9 @@
 
 [![Zed-badge]][Zed Extension store] [![license][license-badge]](LICENSE)
 
+> [!NOTE]
+> Since official support for Zed has been provided by the `vscode-icons` team, this port is now deprecated. Please consider using [the official extension](https://zed.dev/extensions/vscode-icons) instead.
+
 ## Preview
 
 ![Preview](https://github.com/user-attachments/assets/073ae64b-b16e-4dcb-b779-34d95b541fc6)
